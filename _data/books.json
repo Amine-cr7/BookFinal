@@ -1,0 +1,2396 @@
+[
+   {
+      "_id" : "67a9625c8f60e37636047d73",
+      "id" : "GX8Te99fTngC",
+      "volumeInfo" : {
+          "title" : "Howard V. Gramley",
+          "publishedDate" : "1999",
+          "pageCount" : 212,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d79",
+      "id" : "FXd5hmJxWI0C",
+      "volumeInfo" : {
+          "title" : "Grow V. Fisher",
+          "publishedDate" : "1974",
+          "pageCount" : 34,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d80",
+      "id" : "_myHCkFM_WQC",
+      "volumeInfo" : {
+          "title" : "Purdy Company V. Argentina",
+          "publishedDate" : "1964",
+          "pageCount" : 50,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d58",
+      "id" : "dSzHnI1QGywC",
+      "volumeInfo" : {
+          "title" : "Thinking in C++",
+          "authors" : [
+              "Bruce Eckel"
+          ],
+          "publisher" : "Pearson",
+          "publishedDate" : "2000",
+          "description" : "CD-ROM contains: basic introductory seminar on the C concepts necessary to understand C++ or Java.",
+          "pageCount" : 834,
+          "categories" : [
+              "Computers"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3f",
+      "id" : "NDlwQJCiLMgC",
+      "volumeInfo" : {
+          "title" : "Address of Henry Austin Before the Second Nationalist Club of Boston, at Twilight Hall, Aug. 25th, 1890",
+          "authors" : [
+              "Henry Austin"
+          ],
+          "publishedDate" : "1890",
+          "pageCount" : 464,
+          "categories" : [
+              "Labor"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d42",
+      "id" : "ub9bSNAX1FYC",
+      "volumeInfo" : {
+          "title" : "Annual Report",
+          "authors" : [
+              "Railroad and Warehouse Commission of the State of Minnesota"
+          ],
+          "publishedDate" : "1887",
+          "pageCount" : 656,
+          "categories" : [
+              "Railroads"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d84",
+      "id" : "RxEJb2VqcksC",
+      "volumeInfo" : {
+          "title" : "Klump V. Duffus",
+          "publishedDate" : "1998",
+          "pageCount" : 34,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d40",
+      "id" : "VG4n_35SHRgC",
+      "volumeInfo" : {
+          "title" : "Monthly musical record",
+          "publishedDate" : "1878",
+          "pageCount" : 206,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d01",
+      "id" : "Hlo_aH173uoC",
+      "volumeInfo" : {
+          "title" : "Hippopathology: a Systematic Treatise on the Disorders and Lameness of the Horse",
+          "authors" : [
+              "William Percivall"
+          ],
+          "publishedDate" : "1871",
+          "pageCount" : 268,
+          "categories" : [
+              "Horses"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cfe",
+      "id" : "yFAB3dJ3HHgC",
+      "volumeInfo" : {
+          "title" : "Rational Theology. A lecture, etc",
+          "authors" : [
+              "Francis Reginald Statham"
+          ],
+          "publishedDate" : "1872",
+          "pageCount" : 20,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d78",
+      "id" : "pmz3xKCfML8C",
+      "volumeInfo" : {
+          "title" : "Bradley V. Hanly",
+          "publishedDate" : "1976",
+          "pageCount" : 60,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf3",
+      "id" : "64xdke9HqKUC",
+      "volumeInfo" : {
+          "title" : "Lettre a tous ceux qui sont exposez en France a la persecution, par la declaration du Roi du 13. Decembre 1698. Qui ordonne l'execution de l'edit de revocation de celui de Nantes, &c",
+          "publishedDate" : "1699",
+          "pageCount" : 16,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d06",
+      "id" : "xbVE3PulfKkC",
+      "volumeInfo" : {
+          "title" : "Morning and Evening Sacrifice: a handbook for domestic worship",
+          "authors" : [
+              "James Dickerson DAVIES"
+          ],
+          "publishedDate" : "1871",
+          "pageCount" : 72,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2a",
+      "id" : "F2WqYxYviogC",
+      "volumeInfo" : {
+          "title" : "Trait B e sur l'artillerie",
+          "authors" : [
+              "Gerhard Johann David : von Scharnhorst"
+          ],
+          "publishedDate" : "1843",
+          "pageCount" : 282,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf7",
+      "id" : "vt7k-mO73_8C",
+      "volumeInfo" : {
+          "title" : "Lettre circulaire de M. l'evêque de Montpellier, adressée a plusieurs evêques, à l'occasion des projets d'accommodement où l'on s'étoit flatté que Rome alloit entrer vers les mois d'avril & de may 1725",
+          "authors" : [
+              "Charles Joachim Colbert"
+          ],
+          "publishedDate" : "1725",
+          "pageCount" : 18,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d36",
+      "id" : "6qdP91En9f0C",
+      "volumeInfo" : {
+          "title" : "Appendix B. Land use and socioeconomic conditions",
+          "authors" : [
+              "New York (State). Department of Transportation"
+          ],
+          "publishedDate" : "1994",
+          "pageCount" : 142,
+          "categories" : [
+              "Environmental impact statements"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d12",
+      "id" : "Bwe1Ifuq99sC",
+      "volumeInfo" : {
+          "title" : "Traite elementaire d'astronomie physique par J.-B. Biot",
+          "publishedDate" : "1857",
+          "pageCount" : 590,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d71",
+      "id" : "KKdISG0dcM8C",
+      "volumeInfo" : {
+          "title" : "National Labor Relations Board V. Drives, Incorporated",
+          "publishedDate" : "1970",
+          "pageCount" : 52,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d83",
+      "id" : "AgtFrKgZ4dEC",
+      "volumeInfo" : {
+          "title" : "Williams V. Lane",
+          "publishedDate" : "1987",
+          "pageCount" : 88,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d4d",
+      "id" : "cQJq4IrZv24C",
+      "volumeInfo" : {
+          "title" : "China",
+          "authors" : [
+              "China. Hai guan zong shui wu si shu"
+          ],
+          "publishedDate" : "1876",
+          "pageCount" : 202,
+          "categories" : [
+              "Nautical paraphernalia"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d15",
+      "id" : "VGIUAAAAQAAJ",
+      "volumeInfo" : {
+          "title" : "Histoire grecque, tr., accompagnée de notes, par J.-B. Gail",
+          "authors" : [
+              "Thucydides"
+          ],
+          "publishedDate" : "1808",
+          "pageCount" : 328,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d33",
+      "id" : "f4kIc4zzPZUC",
+      "volumeInfo" : {
+          "title" : "Aristotelian Studies",
+          "authors" : [
+              "John C. Wilson"
+          ],
+          "publishedDate" : "1879",
+          "pageCount" : 102,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d51",
+      "id" : "4k9DL_Xysj4C",
+      "volumeInfo" : {
+          "title" : "Documents Printed by Order of the Senate ...",
+          "authors" : [
+              "Massachusetts. General Court. Senate"
+          ],
+          "publishedDate" : "1874",
+          "pageCount" : 1596,
+          "categories" : [
+              "Massachusetts"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d64",
+      "id" : "RXsHD-sgARkC",
+      "volumeInfo" : {
+          "title" : "La vie de l'empereur Charles V",
+          "authors" : [
+              "Leti"
+          ],
+          "publishedDate" : "1715",
+          "pageCount" : 656,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d20",
+      "id" : "eSjkrDtdkVoC",
+      "volumeInfo" : {
+          "title" : "The Stamped Envelopes, Wrappers and Sheets of the United States",
+          "authors" : [
+              "John Kerr Tiffany"
+          ],
+          "publishedDate" : "1892",
+          "pageCount" : 242,
+          "categories" : [
+              "Postage stamps"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d61",
+      "id" : "Twu2DwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Binders, Materials and Technologies in Modern Construction IV",
+          "authors" : [
+              "Karel Dvořák",
+              "Dominik Gazdič",
+              "Iveta Hájková"
+          ],
+          "publisher" : "Trans Tech Publications Ltd",
+          "publishedDate" : "2018-06-20",
+          "description" : "16th International Conference Silicate Binders (16th ICBM 2017) Selected, peer reviewed papers from the 16th International Conference Silicate Binders 2017 (ICBM 2017), 7 December, 2017, Brno, Czech Republic",
+          "pageCount" : 298,
+          "categories" : [
+              "Technology & Engineering"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d09",
+      "id" : "YW-nPotMW2kC",
+      "volumeInfo" : {
+          "title" : "A Devout Exercise in Honour of the Ever Blessed Virgin Mother of God, Mary ... From the Writings of Saint Bonaventure. In Latin and English",
+          "publishedDate" : "1872",
+          "pageCount" : 132,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d17",
+      "id" : "CYtrDPvzFj8C",
+      "volumeInfo" : {
+          "title" : "B Etude sur la fortification polygonale compar B ee A a la fortification bastionn B ee",
+          "authors" : [
+              "Alexandre F A elix Ratheau"
+          ],
+          "publishedDate" : "1862",
+          "pageCount" : 40,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf9",
+      "id" : "8m5bEAAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Dictionnaire de géographie ancienne et moderne a l'usage du libraire et de l'amateur de livres",
+          "authors" : [
+              "Pierre Brunet, Jacques-Charles Deschamps"
+          ],
+          "publisher" : "BoD – Books on Demand",
+          "publishedDate" : "2022-01-24",
+          "description" : "Réimpression de l'original",
+          "pageCount" : 810,
+          "categories" : [
+              "Fiction"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cea",
+      "id" : "gCEsIbKTkr0C",
+      "volumeInfo" : {
+          "title" : "Victoires, conquêtes, désastres, revers et guerres civiles des Français, de 1792 a 1815, par une société de militaires et de gens de lettres. Tome premier [-dernier]",
+          "publishedDate" : "1822",
+          "pageCount" : 428,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d67",
+      "id" : "qtKyDwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Manufacturing Automation Technology Development",
+          "authors" : [
+              "Bo Zhao",
+              "Guang Lin Wang",
+              "Wei Ma",
+              "Zhibo Yang",
+              "Yan Yan Yan"
+          ],
+          "publisher" : "Trans Tech Publications Ltd",
+          "publishedDate" : "2010-12-30",
+          "description" : "Selected, peer reviewed papers from the 14th Conference of China University Society on Manufacturing Automation, August 11-14, 2010, Jiaozuo, China",
+          "pageCount" : 723,
+          "categories" : [
+              "Technology & Engineering"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d65",
+      "id" : "Co2QTgQUdIgC",
+      "volumeInfo" : {
+          "title" : "Saül, tragédie tirée de l'Ecriture Sainte par Mr. de V*** (Voltaire)",
+          "authors" : [
+              "Voltaire"
+          ],
+          "publishedDate" : "1755",
+          "pageCount" : 50,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d77",
+      "id" : "S5qxC8fEn6EC",
+      "volumeInfo" : {
+          "title" : "Allis-Chalmers Manufacturing Company V. United States of America",
+          "publishedDate" : "1947",
+          "pageCount" : 64,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7e",
+      "id" : "byfx3UEf1vIC",
+      "volumeInfo" : {
+          "title" : "Hennessy V. Hennessy",
+          "publishedDate" : "1978",
+          "pageCount" : 154,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d29",
+      "id" : "C5js4v160WQC",
+      "volumeInfo" : {
+          "title" : "A Treatise on Elementary Dynamics, etc",
+          "authors" : [
+              "William GARNETT (Fellow of St. John's College, Cambridge.)"
+          ],
+          "publishedDate" : "1875",
+          "pageCount" : 332,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d28",
+      "id" : "gUjB05TKe2wC",
+      "volumeInfo" : {
+          "title" : "An Elementary Treatise on the Integral Calculus, Etc",
+          "authors" : [
+              "Benjamin Williamson (Fellow of Trinity College, Dublin.)"
+          ],
+          "publishedDate" : "1877",
+          "pageCount" : 368,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf1",
+      "id" : "RB89nIWYDJYC",
+      "volumeInfo" : {
+          "title" : "Traduction d'anciens ouvrages latins relatifs a l'agriculture et a la médécine vétérinaire avec des notes: par M. Saboureux de la Bonnetrie ..",
+          "authors" : [
+              "Marcus Porcius Cato"
+          ],
+          "publishedDate" : "1771",
+          "pageCount" : 324,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047ced",
+      "id" : "QbPxgExA294C",
+      "volumeInfo" : {
+          "title" : "Histoire de la Maison d'Autriche, depuis Rodolphe de Hapsbourg, jusqu'a la mort de Léopold 2. (1218-1792), par William Coxe ... Traduite de l'anglais par P. F. Henry. Tome premier [-cinquième]",
+          "publishedDate" : "1810",
+          "pageCount" : 536,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf2",
+      "id" : "80P2c0B0HyAC",
+      "volumeInfo" : {
+          "title" : "Traduction d'anciens ouvrages latins relatifs a l'agriculture et a la médécine vétérinaire avec des notes: par M. Saboureux de la Bonnetrie ... Tome premier [-sixieme]",
+          "authors" : [
+              "Marcus Porcius Cato"
+          ],
+          "publishedDate" : "1771",
+          "pageCount" : 322,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0a",
+      "id" : "SxME5j7U4QEC",
+      "volumeInfo" : {
+          "title" : "French-English and English-French Dictionary, Comprising All the Improvements of the Latest London and Paris Editions, with the Pronunciation of Each Word, According to the Dictionary of the Abbé Tardy",
+          "authors" : [
+              "Abel Boyer"
+          ],
+          "publishedDate" : "1881",
+          "pageCount" : 798,
+          "categories" : [
+              "English language"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cff",
+      "id" : "NamyhpiMCuQC",
+      "volumeInfo" : {
+          "title" : "A Memorial of the Rev. James W. Dale, D.D.",
+          "authors" : [
+              "James Roberts"
+          ],
+          "publishedDate" : "1886",
+          "pageCount" : 154,
+          "categories" : [
+              "Clergy"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d13",
+      "id" : "ihzhVM5pozsC",
+      "volumeInfo" : {
+          "title" : "Trait B e de mecanique industrielle exposant les differentes methodes pour determiner et mesurer les forces motrices...",
+          "publishedDate" : "1844",
+          "pageCount" : 482,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d08",
+      "id" : "XA1CN22onEgC",
+      "volumeInfo" : {
+          "title" : "A Shaker's Answer to the Oft-repeated Question, \"What Would Become of the World If All Should Become Shakers?\"",
+          "authors" : [
+              "Richard W. Pelham"
+          ],
+          "publishedDate" : "1874",
+          "pageCount" : 36,
+          "categories" : [
+              "Celibacy"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6a",
+      "id" : "R_d9dCEJaUsC",
+      "volumeInfo" : {
+          "title" : "G.H. Miller and Company V. Benson",
+          "publishedDate" : "1957",
+          "pageCount" : 172,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d27",
+      "id" : "i_i3DwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Journal of Nano Research Vol. 9",
+          "authors" : [
+              "Velumani Subramaniam",
+              "Rene Asomoza",
+              "Umapada Pal"
+          ],
+          "publisher" : "Trans Tech Publications Ltd",
+          "publishedDate" : "2010-02-15",
+          "description" : "This periodical edition includes peer-reviewed scientific and engineering papers on all aspects of research in the area of nanoscience and nanotechnologies and wide practical application of the achieved results.",
+          "pageCount" : 148,
+          "categories" : [
+              "Technology & Engineering"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d11",
+      "id" : "sqWzuh1J7GcC",
+      "volumeInfo" : {
+          "title" : "Nature London",
+          "publishedDate" : "1871",
+          "pageCount" : 540,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d76",
+      "id" : "-5OukjWAJU4C",
+      "volumeInfo" : {
+          "title" : "Aaron V. Borkenhagen",
+          "publishedDate" : "1974",
+          "pageCount" : 66,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d55",
+      "id" : "vH-0DwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "New Materials and Technologies in Mechanical Engineering",
+          "authors" : [
+              "Anatoly A. Popovich",
+              "Aleksander V. Semencha",
+              "Yury Klochkov"
+          ],
+          "publisher" : "Trans Tech Publications Ltd",
+          "publishedDate" : "2019-09-24",
+          "description" : "International Scientific Conference \"New Materials and Technologies in Mechanical Engineering\" (NMTME 2019) Selected, peer reviewed papers from the International Scientific Conference \"New Materials and Technologies in Mechanical Engineering\" (NMTME 2019), March 12 - 15, 2019, St. Petersburg, Russian Federation",
+          "pageCount" : 909,
+          "categories" : [
+              "Technology & Engineering"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1f",
+      "id" : "Ds4HWTX-_L8C",
+      "volumeInfo" : {
+          "title" : "The B-2 Spirit",
+          "authors" : [
+              "E. E. Basmadjian"
+          ],
+          "publisher" : "The Rosen Publishing Group, Inc",
+          "publishedDate" : "2002-12-15",
+          "description" : "Discusses the history of the B-2 Spirit stealth bomber and its use in the military campaigns in Afghanistan after the September 11, 2001, terrorist attacks.",
+          "pageCount" : 54,
+          "categories" : [
+              "Juvenile Nonfiction"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d72",
+      "id" : "Z1DsMrHEkDYC",
+      "volumeInfo" : {
+          "title" : "Euell V. Adams",
+          "publishedDate" : "1996",
+          "pageCount" : 54,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d32",
+      "id" : "t4S3FKVdV0gC",
+      "volumeInfo" : {
+          "title" : "A Complete Latin-English and English-Latin Dictionary",
+          "authors" : [
+              "John Tahourdin White"
+          ],
+          "publishedDate" : "1878",
+          "pageCount" : 1062,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d03",
+      "id" : "Bj-be5_C5NAC",
+      "volumeInfo" : {
+          "title" : "The Sacred Heart: a Correspondence Between ... Archbishop Manning, D.D., and the Rev. A. Nicholson, LL.D., as it Appeared in the “Guardian” Newspaper, Sept. 17th. With Notes for English Readers ... Second Edition",
+          "authors" : [
+              "Henry Edward Manning"
+          ],
+          "publishedDate" : "1873",
+          "pageCount" : 40,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d31",
+      "id" : "tpjwg7I6ex0C",
+      "volumeInfo" : {
+          "title" : "On the Theory of the Modern Scientific Game of Whist ... Extracted, for Private Circulation, from the Sixteenth Edition of “Short Whist, by Major A.”",
+          "authors" : [
+              "William POLE (F.R.S.)"
+          ],
+          "publishedDate" : "1873",
+          "pageCount" : 168,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6e",
+      "id" : "f9s0GqKgo0IC",
+      "volumeInfo" : {
+          "title" : "Sangmeister V. Woodard",
+          "publishedDate" : "1977",
+          "pageCount" : 36,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d5a",
+      "id" : "FrgrDwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Estimation of quantiles in a simulation model based on artificial neural networks",
+          "authors" : [
+              "Sevda Alaca"
+          ],
+          "publisher" : "GRIN Verlag",
+          "publishedDate" : "2017-07-10",
+          "description" : "Master's Thesis from the year 2017 in the subject Mathematics - Stochastics, grade: 1,3, Technical University of Darmstadt, language: English, abstract: This thesis deals with the development of an \"alpha\"-quantile estimate based on a surrogate model with the use of artificial neural networks. Using artificial neural networks as an estimate is considered a nonparametric approach. The estimation of a specific quantile of a data population is a widely used statistical task and a comprehensive way to discover the true relationship among variables. It can be classified as nonparametric regression, where it is one of the standard tasks. The most common selected levels for estimation are the first, second and third quartile (25, 50 and 75 percent). The quantile level is given by \"alpha\". A 25 percent quantile for example has 25 percent of the data distribution below the named quantile and 75 percent of the data distribution above it. Sometimes the tail regions of a population characteristic are of interest rather than the core of the distribution. Quantile estimation is applied in many different contexts - financial economics, survival analysis and environmental modelling are only a few of them.",
+          "pageCount" : 86,
+          "categories" : [
+              "Mathematics"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7f",
+      "id" : "T1mLpiRzHNMC",
+      "volumeInfo" : {
+          "title" : "Ahrensfeld V. Stephens",
+          "publishedDate" : "1975",
+          "pageCount" : 54,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0f",
+      "id" : "BsL0YCJnSQ0C",
+      "volumeInfo" : {
+          "title" : "Report on the meteorology of India",
+          "authors" : [
+              "India. Meteorological Department"
+          ],
+          "publishedDate" : "1887",
+          "pageCount" : 546,
+          "categories" : [
+              "Meteorology"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2b",
+      "id" : "3dw9_7ChuPMC",
+      "volumeInfo" : {
+          "title" : "Transactions of the Asiatic Society of Japan",
+          "publishedDate" : "1886",
+          "pageCount" : 256,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d85",
+      "id" : "l-APx2D-1AcC",
+      "volumeInfo" : {
+          "title" : "Lee V. Duckworth",
+          "publishedDate" : "1980",
+          "pageCount" : 52,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d86",
+      "id" : "3PxbvdPw9FgC",
+      "volumeInfo" : {
+          "title" : "Webster V. Duckworth",
+          "publishedDate" : "1984",
+          "pageCount" : 106,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d5d",
+      "id" : "P5B8SAqMPK4C",
+      "volumeInfo" : {
+          "title" : "TKO Equipment Company V. C & G Coal Company, Inc",
+          "publishedDate" : "1988",
+          "pageCount" : 122,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d60",
+      "id" : "kM3oMTvEMQEC",
+      "volumeInfo" : {
+          "title" : "Official Catalogue of the British Section",
+          "authors" : [
+              "Great Britain. Commission to the Paris Exposition, 1889"
+          ],
+          "publishedDate" : "1889",
+          "pageCount" : 252,
+          "categories" : [
+              "Exposition universelle de 1889"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cfa",
+      "id" : "5I_q52-HJCYC",
+      "volumeInfo" : {
+          "title" : "A Dictionary of Music and Musicians",
+          "authors" : [
+              "George Grove"
+          ],
+          "publishedDate" : "1879",
+          "pageCount" : 784,
+          "categories" : [
+              "Music"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d22",
+      "id" : "YMOioyV84dsC",
+      "volumeInfo" : {
+          "title" : "Senate documents",
+          "publishedDate" : "1877",
+          "pageCount" : 1144,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d59",
+      "id" : "9iYj0pMeS0UC",
+      "volumeInfo" : {
+          "title" : "The Parliamentary Debates",
+          "authors" : [
+              "Great Britain. Parliament"
+          ],
+          "publishedDate" : "1894",
+          "pageCount" : 978,
+          "categories" : [
+              "Great Britain"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d39",
+      "id" : "Mc1WEA5DhgEC",
+      "volumeInfo" : {
+          "title" : "The Encyclopædia Britannica",
+          "publishedDate" : "1891",
+          "pageCount" : 908,
+          "categories" : [
+              "Encyclopedias and dictionaries"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf4",
+      "id" : "l6b0YK0HF7AC",
+      "volumeInfo" : {
+          "title" : "Eloge de René Descartes. Discours qui a remporté le prix de l'Académie françoise en 1765. Par M. Thomas..",
+          "authors" : [
+              "Antoine Léonard Thomas"
+          ],
+          "publishedDate" : "1765",
+          "pageCount" : 128,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2f",
+      "id" : "H3JF3D94eWcC",
+      "volumeInfo" : {
+          "title" : "The Connection of Disease with Habits of Intemperance",
+          "authors" : [
+              "Charles Willsie",
+              "Gallus Thomann",
+              "George Jacobs Low",
+              "Henry Ingersoll Bowditch",
+              "Sir Isambard Owen"
+          ],
+          "publishedDate" : "1885",
+          "pageCount" : 902,
+          "categories" : [
+              "Alcohol"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3d",
+      "id" : "bVsTUx_Qm3oC",
+      "volumeInfo" : {
+          "title" : "Publishers' Weekly",
+          "publishedDate" : "1877",
+          "pageCount" : 754,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d10",
+      "id" : "eD2hGPkm14MC",
+      "volumeInfo" : {
+          "title" : "English Mechanic and Mirror of Science and Art",
+          "publishedDate" : "1893",
+          "pageCount" : 634,
+          "categories" : [
+              "Technology"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7b",
+      "id" : "611p5zc5rMgC",
+      "volumeInfo" : {
+          "title" : "Smith V. McGinnis",
+          "publishedDate" : "1984",
+          "pageCount" : 60,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf6",
+      "id" : "EkrCOH0ivXMC",
+      "volumeInfo" : {
+          "title" : "Port-Saïd a M. Ferdinand de Lesseps président et directeur de la Compagnie Universelle du Canal maritime de Suez lettre du comm. Alexandre Cialdi. Avec un post-scriptum",
+          "authors" : [
+              "Alessandro Cialdi"
+          ],
+          "publishedDate" : "1868",
+          "pageCount" : 28,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d5b",
+      "id" : "9NBrruMfRtkC",
+      "volumeInfo" : {
+          "title" : "Transactions of the Royal Society of South Australia, Incorporated",
+          "authors" : [
+              "Royal Society of South Australia"
+          ],
+          "publishedDate" : "1883",
+          "pageCount" : 220,
+          "categories" : [
+              "Science"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf0",
+      "id" : "WrbVAgAAQBAJ",
+      "volumeInfo" : {
+          "title" : "L'intégrité dans les marchés publics Les bonnes pratiques de A à Z",
+          "authors" : [
+              "OECD"
+          ],
+          "publisher" : "OECD Publishing",
+          "publishedDate" : "2008-08-05",
+          "description" : "Cet ouvrage présente, pour la première fois, un aperçu comparatif des pratiques de A à Z et présente les pratiques destinées à promouvoir l’intégrité tout au long du cycle des marchés publics, de l’évaluation des besoins à la gestion des contrats. Il offre des exemples dans les pays membres et non membres.",
+          "pageCount" : 194,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7a",
+      "id" : "bIEzXR-qpI8C",
+      "volumeInfo" : {
+          "title" : "Vukadinovich V. Zentz",
+          "publishedDate" : "1992",
+          "pageCount" : 104,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d82",
+      "id" : "t93duwV_ZZoC",
+      "volumeInfo" : {
+          "title" : "Geehan V. Monahan",
+          "publishedDate" : "1967",
+          "pageCount" : 60,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d14",
+      "id" : "WqL5DwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Cellules B et anticorps monoclonaux",
+          "authors" : [
+              "Russom Kilsen"
+          ],
+          "publisher" : "Cambridge Stanford Books",
+          "description" : "Contenu de ce livre: cellule B, développement, activation, types de cellules B, pathologie liée aux cellules B, épigénétique, cellule mémoire B, réponse primaire, réponse secondaire et mémoire, durée de vie, marqueurs des cellules B mémoire, sous-ensembles de cellules mémoire B, Récepteur des lymphocytes B, Développement et structure du récepteur des lymphocytes B, Voies de signalisation du récepteur des lymphocytes B, Le récepteur des lymphocytes B dans la malignité, Epitope, Fonction, Cartographie des épitopes, Balises épitopiques, Déterminant néoantigénique, Cartographie des épitopes, Importance pour Caractérisation des anticorps, Importance pour la protection de la propriété intellectuelle (PI), Méthodes, Anticorps monoclonal, Production, Coût, Applications, Effets secondaires, Liste des anticorps monoclonaux thérapeutiques, Anticorps polyclonaux, Production, Sélection animale, Préparation d'antigène, Adjuvants, Utilisations pharmaceutiques, Avantages, Cellule T, développement, types de cellules T, activation, Signification clinique",
+          "pageCount" : 159,
+          "categories" : [
+              "Science"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d45",
+      "id" : "YZKvDPxCgn8C",
+      "volumeInfo" : {
+          "title" : "P. Vergili Maronis Opera",
+          "authors" : [
+              "Virgil"
+          ],
+          "publishedDate" : "1890",
+          "pageCount" : 526,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2c",
+      "id" : "AKNZI68PWSIC",
+      "volumeInfo" : {
+          "title" : "Documents of the Assembly of the State of New York",
+          "authors" : [
+              "New York (State). Legislature. Assembly"
+          ],
+          "publishedDate" : "1872",
+          "pageCount" : 1234,
+          "categories" : [
+              "New York (State)"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d41",
+      "id" : "DG-vEAAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Et si c'était elle ?",
+          "authors" : [
+              "Orane Dupont"
+          ],
+          "publisher" : "Editions Ex Aequo",
+          "publishedDate" : "2023-02-21",
+          "description" : "Comme l’adresse du client avec lequel il avait rendez-vous ne se trouvait qu’à huit cents mètres de la gare, Vincent resserra le col de son manteau noir autour de son cou avant de se mettre en marche. Mais arrivant à toute allure, une masse de cheveux blonds fonçait droit dans sa direction. Vincent s’immobilisa. Son sang vint se glacer dans ses veines pendant que son cœur sembla s’arrêter. Il la vit filer jusqu’à disparaître au croisement des rues. Ce fut alors comme si son cerveau ne fonctionnait plus. De l’extérieur, du fait de la pâleur de son visage, de l’écarquillement de ses yeux et de l’espace laissé entre ses lèvres, on aurait pu croire qu’il avait vu un mort. C’était d’ailleurs tout comme. Que faisait-elle là ? Où allait-elle ? Comment avait-elle pu ne pas le reconnaître ? Mais surtout : comment se faisait-il qu’elle n’ait pas pris une ride après plus de vingt ans, comme si le temps ne s’était pas écoulé depuis la dernière fois qu’ils s’étaient vus ? À PROPOS DE L'AUTEURE Psychologue diplômée de l’Université de Lyon, Orane Dupont exerce en cabinet libéral. Lorsqu’elle n’accompagne pas ses patients, elle consacre son temps à son amour pour l'écriture. Après un parcours dans l’autoédition, Et si c’était elle est son deuxième roman.",
+          "pageCount" : 252,
+          "categories" : [
+              "Fiction"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d56",
+      "id" : "Ad1d0TTeJr4C",
+      "volumeInfo" : {
+          "title" : "The Builder",
+          "publishedDate" : "1895",
+          "pageCount" : 830,
+          "categories" : [
+              "Architecture"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1a",
+      "id" : "IF-rzh89w_8C",
+      "volumeInfo" : {
+          "title" : "G B eographie moderne, r B edig B ee sur un nouveau plan, ou Description historique politique, civile et naturelle des empires, royaumes, etats et leurs colonies; avec celle des mers et des iles de toutes les parties du monde",
+          "publishedDate" : "1804",
+          "pageCount" : 614,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1d",
+      "id" : "83VGHbnQFBAC",
+      "volumeInfo" : {
+          "title" : "Réponse de J.-B. Gail, professeur de littérature grecque au Collège de France, à la critique de son Traité de la chasse, par E. Clavier ..",
+          "authors" : [
+              "Jean Baptiste Gail"
+          ],
+          "publishedDate" : "1801",
+          "pageCount" : 40,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1e",
+      "id" : "DEl5zw8NT68C",
+      "volumeInfo" : {
+          "title" : "Pr B ecis de l'art de la guerre, ou nouveau tableau analytique des principales combinaisons de la strat B egie, de la grande tactique et de la politique militaire",
+          "publishedDate" : "1837",
+          "pageCount" : 400,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3e",
+      "id" : "daR2DCvuL-cC",
+      "volumeInfo" : {
+          "title" : "Voyage au levant, c'est a dire, dans les principaux endroits de l'Asie mineure, dans les isles de Chio, Rhodes, Cypre, &c. De meme que dans les plus considerables ville d'Egypte, Syrie, & Terre sainte; ... par Corneille Le Bruyn. Tome premier cinquieme",
+          "publishedDate" : "1725",
+          "pageCount" : 610,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cfb",
+      "id" : "WaHksPbL39AC",
+      "volumeInfo" : {
+          "title" : "Floriculture: a book of reference for amateur and professional gardeners ... With ... coloured illustrations",
+          "authors" : [
+              "George M. F. GLENNY"
+          ],
+          "publishedDate" : "1871",
+          "pageCount" : 138,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6f",
+      "id" : "ed2QNqi34RcC",
+      "volumeInfo" : {
+          "title" : "DeFrancesco V. Bowen",
+          "publishedDate" : "1988",
+          "pageCount" : 76,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d44",
+      "id" : "d2bhv9B2LigC",
+      "volumeInfo" : {
+          "title" : "The Married Women's Property Acts 1882 with an Introduction and Critical and Explanatory Notes and Appendix",
+          "authors" : [
+              "Smith"
+          ],
+          "publishedDate" : "1882",
+          "pageCount" : 136,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047ceb",
+      "id" : "Gr1CzyBouBQC",
+      "volumeInfo" : {
+          "title" : "Histoire de l'astronomie ancienne, depuis son origine jusq'a l'etablissement de l'école d'Alexandrie; par m. Bailly ..",
+          "authors" : [
+              "Jean-Sylvain Bailly"
+          ],
+          "publishedDate" : "1775",
+          "pageCount" : 568,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cfc",
+      "id" : "1VNhR53sAB0C",
+      "volumeInfo" : {
+          "title" : "A Library of the World's Best Literature",
+          "authors" : [
+              "Charles Dudley Warner",
+              "Hamilton Wright Mabie",
+              "Charles Henry Warner",
+              "Lucia Isabella Gilbert Runkle",
+              "George H. Warner"
+          ],
+          "publishedDate" : "1897",
+          "pageCount" : 468,
+          "categories" : [
+              "Authors"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d89",
+      "id" : "kAzheC8xjlwC",
+      "volumeInfo" : {
+          "title" : "United States of America V. Levine",
+          "publishedDate" : "1985",
+          "pageCount" : 64,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d69",
+      "id" : "el1a8yuuXi0C",
+      "volumeInfo" : {
+          "title" : "Jones V. Winn",
+          "publishedDate" : "2001",
+          "pageCount" : 64,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d63",
+      "id" : "NHFsYIN12WoC",
+      "volumeInfo" : {
+          "title" : "Société politique, noblesse et couronne sous Jean le Bon et Charles V",
+          "authors" : [
+              "Raymond Cazelles"
+          ],
+          "publisher" : "Librairie Droz",
+          "publishedDate" : "1982",
+          "pageCount" : 642,
+          "categories" : [
+              "Literary Criticism"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d07",
+      "id" : "Hn234i30NV0C",
+      "volumeInfo" : {
+          "title" : "Lectures: Sicily. Genoa. A drive through the Engadine",
+          "authors" : [
+              "John Lawson Stoddard"
+          ],
+          "publishedDate" : "1897",
+          "pageCount" : 350,
+          "categories" : [
+              "Asia"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0c",
+      "id" : "8U9Dh-Vb_N0C",
+      "volumeInfo" : {
+          "title" : "Punch",
+          "publishedDate" : "1879",
+          "pageCount" : 658,
+          "categories" : [
+              "English wit and humor"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7d",
+      "id" : "ZF8jZ4QVmTEC",
+      "volumeInfo" : {
+          "title" : "Satra Belarus, Inc. V. National Labor Relations Board",
+          "publishedDate" : "1977",
+          "pageCount" : 30,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d37",
+      "id" : "-PzXWYyawBgC",
+      "volumeInfo" : {
+          "title" : "Annalen der Sternwarte in Leiden",
+          "publishedDate" : "1875",
+          "pageCount" : 384,
+          "categories" : [
+              "Astronomy"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d5f",
+      "id" : "MR2I3hdYkV0C",
+      "volumeInfo" : {
+          "title" : "History of Duchess County, New York",
+          "authors" : [
+              "James Hadden Smith",
+              "Hume H. Cale",
+              "William E. Roscoe"
+          ],
+          "publishedDate" : "1882",
+          "pageCount" : 805,
+          "categories" : [
+              "History"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2d",
+      "id" : "R1tMZ0NW1xIC",
+      "volumeInfo" : {
+          "title" : "Proceedings of the Cambridge Philosophical Society",
+          "publishedDate" : "1886",
+          "pageCount" : 466,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d46",
+      "id" : "WlsuYM4_gisC",
+      "volumeInfo" : {
+          "title" : "The Gardener's Monthly and Horticultural Advertiser",
+          "publishedDate" : "1878",
+          "pageCount" : 402,
+          "categories" : [
+              "Gardening"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d2e",
+      "id" : "_VJMuM10I7QC",
+      "volumeInfo" : {
+          "title" : "Acta societatis regiae scientiarum Upsaliensis",
+          "publishedDate" : "1870",
+          "pageCount" : 566,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d19",
+      "id" : "wMoWAAAAQAAJ",
+      "volumeInfo" : {
+          "title" : "L'histoire de la vie et du ministere du B. abbé Idesbalde sous Thierry d'Alsace conte de Flandre",
+          "authors" : [
+              "Hermanville"
+          ],
+          "publishedDate" : "1724",
+          "pageCount" : 458,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0e",
+      "id" : "MYMals4KD3IC",
+      "volumeInfo" : {
+          "title" : "Cosmopolitan",
+          "publishedDate" : "1897",
+          "pageCount" : 710,
+          "categories" : [
+              "Periodicals"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d75",
+      "id" : "cLXonNqXsaQC",
+      "volumeInfo" : {
+          "title" : "Davie V. Penningroth",
+          "publishedDate" : "1978",
+          "pageCount" : 100,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d4e",
+      "id" : "9SYBZggtr_IC",
+      "volumeInfo" : {
+          "title" : "American Almanac and Treasury of Facts Statistical, Financial and Political",
+          "publishedDate" : "1878",
+          "pageCount" : 432,
+          "categories" : [
+              "United States"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d50",
+      "id" : "1dI1bZKWImUC",
+      "volumeInfo" : {
+          "title" : "Notes and Queries: A Medium of Inter-Communication for Literary Men, Artists, Antiquaries, Genealogists, Etc",
+          "publishedDate" : "1872",
+          "pageCount" : 696,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d66",
+      "id" : "OvcTAAAAQAAJ",
+      "volumeInfo" : {
+          "title" : "Histoire naturelle des lépidoptères ou papillons de France: Nocturnes. 8 v. in 10",
+          "authors" : [
+              "Jean Baptiste Godart"
+          ],
+          "publishedDate" : "1821",
+          "pageCount" : 696,
+          "categories" : [
+              "Butterflies"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d68",
+      "id" : "3ZYv1DZiviAC",
+      "volumeInfo" : {
+          "title" : "Arthur Jordon Foundation V. Commissioner of Internal Revenue",
+          "publishedDate" : "1953",
+          "pageCount" : 74,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d88",
+      "id" : "I7e7aMo6IdkC",
+      "volumeInfo" : {
+          "title" : "Wieloch V. Rogers Cartage Company",
+          "publishedDate" : "1961",
+          "pageCount" : 52,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d00",
+      "id" : "OavKOTMoubMC",
+      "volumeInfo" : {
+          "title" : "The West-End System: a Scientific and Practical Method of Cutting All Kinds of Garments. By E. B. G., J. Mogford, F. T. Prewett, Etc. Pt. 1",
+          "authors" : [
+              "Edward Boyer Giles"
+          ],
+          "publishedDate" : "1875",
+          "pageCount" : 116,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d05",
+      "id" : "gQo24ZEO67oC",
+      "volumeInfo" : {
+          "title" : "The Wants and Means of India. A Paper, Etc",
+          "authors" : [
+              "Dadabhai Naoroji"
+          ],
+          "publishedDate" : "1870",
+          "pageCount" : 12,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3c",
+      "id" : "8aS7aLcQEboC",
+      "volumeInfo" : {
+          "title" : "The Constitution of the United States, the Ordinance of 1787, the Organic Act, Act authorizing a state government, the State Constitution, the Act of Admission into the Union, and sections 1 to 4821 of the general statutes",
+          "authors" : [
+              "Minnesota"
+          ],
+          "publishedDate" : "1894",
+          "pageCount" : 1400,
+          "categories" : [
+              "Law"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d62",
+      "id" : "bhHmftQSbzgC",
+      "volumeInfo" : {
+          "title" : "Guide du médecin praticien v. 4",
+          "authors" : [
+              "François Louis Isidore Valleix"
+          ],
+          "publishedDate" : "1853",
+          "pageCount" : 824,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d35",
+      "id" : "QJiTlsoRkCoC",
+      "volumeInfo" : {
+          "title" : "Excavations in Cranborne Chase, near Rushmore, on the Borders of Dorset and Wilts",
+          "authors" : [
+              "Augustus Henry Lane-Fox Pitt-Rivers"
+          ],
+          "publishedDate" : "1888",
+          "pageCount" : 604,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf8",
+      "id" : "YMPQRZYSWpcC",
+      "volumeInfo" : {
+          "title" : "Histoire d'Angleterre depuis l'invasion de Jules-Cesar jusqu'a la revolution de 1688, par David Hume et depuis cette epoque jusqu'a 1760 par Smollet. Traduite de l'anglais. Tome premier \\-vingt-deuxieme!",
+          "publishedDate" : "1819",
+          "pageCount" : 574,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6c",
+      "id" : "uSQqpIJbBw8C",
+      "volumeInfo" : {
+          "title" : "United States of America V. Schaefer",
+          "publishedDate" : "1961",
+          "pageCount" : 70,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d4a",
+      "id" : "QRgsMj1vLpUC",
+      "volumeInfo" : {
+          "title" : "Subject-matter Index of Applications for Letters Patent, for the Year ...",
+          "authors" : [
+              "Great Britain. Patent Office"
+          ],
+          "publishedDate" : "1887",
+          "pageCount" : 316,
+          "categories" : [
+              "Patents"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0b",
+      "id" : "8Prhyw0MJWoC",
+      "volumeInfo" : {
+          "title" : "Revised Statutes of the United States, Passed at the First Session of the Forty-third Congress, 1873-74; Embracing the Statutes of the United States, General and Permanent in Their Nature, in Force an the First Day of December, One Thoosand Eight Hundred and Seventy-three, as Revised and Consolidated by Commissioners Appointed Under an Act of Congress (etc.). Mit 2 Suppl.-Vol",
+          "authors" : [
+              "[Anonymus AC10343482]"
+          ],
+          "publishedDate" : "1875",
+          "pageCount" : 1456,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d87",
+      "id" : "5pelKEWBZTkC",
+      "volumeInfo" : {
+          "title" : "State of Wisconsin V. Misenko",
+          "publishedDate" : "1985",
+          "pageCount" : 52,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cfd",
+      "id" : "jwXctWt0uDIC",
+      "volumeInfo" : {
+          "title" : "A manual of the mollusca",
+          "authors" : [
+              "S. P. Woodward"
+          ],
+          "publishedDate" : "1875",
+          "pageCount" : 748,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cef",
+      "id" : "dshuXQud4uMC",
+      "volumeInfo" : {
+          "title" : "Le progrez du Ianssenisme [!] descouuert, a monseigneur le chancelier par le sieur de Preuille",
+          "authors" : [
+              "François Pinthereau"
+          ],
+          "publishedDate" : "1655",
+          "pageCount" : 204,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d04",
+      "id" : "YM_21yyfPNUC",
+      "volumeInfo" : {
+          "title" : "Jesus versus Christianity. By a Cantab",
+          "authors" : [
+              "CANTAB."
+          ],
+          "publishedDate" : "1873",
+          "pageCount" : 34,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d23",
+      "id" : "jwNz3R9edsAC",
+      "volumeInfo" : {
+          "title" : "Proceedings of the Royal Society",
+          "publishedDate" : "1892",
+          "pageCount" : 614,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6d",
+      "id" : "IxKI1sInUEAC",
+      "volumeInfo" : {
+          "title" : "Cosby V. Harts",
+          "publishedDate" : "1948",
+          "pageCount" : 96,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d7c",
+      "id" : "17rJa8W443YC",
+      "volumeInfo" : {
+          "title" : "Collum V. Butler",
+          "publishedDate" : "1969",
+          "pageCount" : 56,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d24",
+      "id" : "uBAlNm6t7pIC",
+      "volumeInfo" : {
+          "title" : "Differential and Integral Calculus",
+          "authors" : [
+              "Alfred George Greenhill",
+              "Sir George Greenhill"
+          ],
+          "publishedDate" : "1896",
+          "pageCount" : 484,
+          "categories" : [
+              "Calculus"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cee",
+      "id" : "wAlHu7JY9FMC",
+      "volumeInfo" : {
+          "title" : "Supplément a la traduction française de la cinquième édition du Système de chimie, par Th. Thomson, ... par J.n Riffault, ... traducteur des 3. et 5. éditions du Système de chimie de Th. Thomson",
+          "authors" : [
+              "Thomas Thomson"
+          ],
+          "publishedDate" : "1822",
+          "pageCount" : 566,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d49",
+      "id" : "fiVTIav9PU4C",
+      "volumeInfo" : {
+          "title" : "Diplomatic and Consular Reports",
+          "authors" : [
+              "Great Britain. Foreign Office"
+          ],
+          "publishedDate" : "1897",
+          "pageCount" : 606,
+          "categories" : [
+              "Consular reports"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d70",
+      "id" : "d1rsPkOYkJgC",
+      "volumeInfo" : {
+          "title" : "Wimberly V. Laird",
+          "publishedDate" : "1972",
+          "pageCount" : 112,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1b",
+      "id" : "2RMhOht3zSIC",
+      "volumeInfo" : {
+          "title" : "La Vie admirable de la B. Ieanne de Valois, Reine de France, Fondatrice de l'Ordre de la Sainte Vierge, sous le Titre des Dix Vertus. Composée par le R. P. Paulin du Gast, Religieux de l'Observance de S. François, de la Province de Touraine, Pictavienne, & Confesseur du Monastere Royal de l'Annonciade de Bourges. Dediée a la Reine",
+          "authors" : [
+              "Paulin Du Gast"
+          ],
+          "publishedDate" : "1666",
+          "description" : "--> L'Ordre des Annonciades (Ordre de la Sainte Vierge, Ordre des Dames de l'Ave Maria, Ordre des 10 plaisirs de la Vierge Marie, Ordre des 10 vertus de la Vierge Marie) est un ordre monastique féminin fondé par sainte Jeanne de France et Gilbert Nicolas (Père Gabriel-Maria).",
+          "pageCount" : 344,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d54",
+      "id" : "xDLXxNLZpmYC",
+      "volumeInfo" : {
+          "title" : "Register",
+          "authors" : [
+              "Brighton College of Technology"
+          ],
+          "publishedDate" : "1886",
+          "pageCount" : 196,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3a",
+      "id" : "SZqNDwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Lettre ouverte à ceux qui croient (encore) que l'Europe c'est la paix",
+          "authors" : [
+              "Arnaud-Aaron Upinsky"
+          ],
+          "publisher" : "BoD - Books on Demand",
+          "publishedDate" : "2019-03-18",
+          "description" : "Soit l'équation présentée comme une évidence : Europe = Paix + Prospérité imposée mais jamais démontrée. Parce qu'elle est indémontrable, elle oblige tout esprit libre à envisager l'hypothèse inverse, soit : Europe = crise économique + guerre. S'agissant de l'Europe (de Maastricht) qu'on nous prépare, le mot « guerre » semble invraisemblable, voire provocateur. Et cependant, au bord d'une décision essentielle, comment, de sang-froid, écarter les contraintes de l'analyse logique ? Car, pour les Français, c'est bien le moment de poser « la question ». Or, poser les questions, c'est déjà, d'une certaine manière, y répondre, c'est-à-dire envisager de sortir du sommeil obligé du rêve européen pour retourner aux réalités. Bonaparte notait avec brutalité qu'« au-delà d'un certain seuil, les illusions ne peuvent plus être vaincues que par les faits ». Il est encore temps pour les Français d'échapper à la dure leçon des faits, en osant dissiper l'illusion. Mathématicien et épistémologue (ses analyses pénétrantes sur l'impact du tout mathématique dans l'enseignement ont profondément influencé Jean-Pierre Chevènement), l'auteur propose une vue panoramique exceptionnelle de la bataille des idées en cours : de la destruction des intelligences par l'école à la destruction de la démocratie par l'Europe (de Maastricht) !",
+          "pageCount" : 198,
+          "categories" : [
+              "Political Science"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cec",
+      "id" : "brXdKSEWk1gC",
+      "volumeInfo" : {
+          "title" : "Bibliotheque universelle de Geneve supplement a la Biblioteque universelle de Geneve",
+          "publishedDate" : "1836",
+          "pageCount" : 452,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d18",
+      "id" : "CjUn6n2nGcQC",
+      "volumeInfo" : {
+          "title" : "Vie du B. Alphonse-Marie de Liguori,... fondateur de la Congrégation des Prêtres Missionnaires du Très Saint Rédempteur",
+          "authors" : [
+              "Jean Jacques Jeancard"
+          ],
+          "publishedDate" : "1828",
+          "pageCount" : 648,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d34",
+      "id" : "oYH0rQcIIEMC",
+      "volumeInfo" : {
+          "title" : "Review of American Birds",
+          "authors" : [
+              "Spencer Fullerton Baird"
+          ],
+          "publishedDate" : "1874",
+          "pageCount" : 780,
+          "categories" : [
+              "Birds"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d74",
+      "id" : "rqVVyA5wkbUC",
+      "volumeInfo" : {
+          "title" : "Lehpamer V. Troyer",
+          "publishedDate" : "1985",
+          "pageCount" : 128,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d26",
+      "id" : "TS60-IKOgLYC",
+      "volumeInfo" : {
+          "title" : "B Etudes sur la d B efense des B etats et sur la fortification",
+          "publishedDate" : "1863",
+          "pageCount" : 422,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d3b",
+      "id" : "NejoCwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Votre CV, c'est vous!",
+          "authors" : [
+              "Pierre Guilbert"
+          ],
+          "publisher" : "Edipro",
+          "publishedDate" : "2016-02-29",
+          "description" : "Deux milliards d’emplois devraient disparaître dans le monde d’ici 2030 ! Mais en même temps, 60% des métiers qui seront pratiqués alors doivent encore être inventés. Vous êtes optimiste ? Il le faut, c’est la condition pour gagner. Mais ça n’est pas suffisant. Encore faut-il réussir à « se vendre ». Oui oui : être son propre commercial. Ce livre vous indique comment. Comment affiner votre CV. Que dire dans une lettre de motivation. Comment se comporter lors d’un entretien. C’est court, parce qu’au bout du compte, ça doit l’être. La séduction vient dans les premiers instants. Et ensuite il faut transformer l’essai. Mais ce livre ne veut pas faire l’impasse sur l’énorme révolution qui caractérise le monde du travail. Aujourd’hui. Et demain encore plus. L’emploi, qui reste une de nos principales préoccupations, ne se décline plus de la même manière. La première partie de ce livre veut donc expliquer pourquoi il ne faut plus du tout revêtir le costume du « demandeur d’emploi ». Mais, à la place, prendre la posture de « l’offreur de compétences ». Allez-y, réinventez-vous ! Au bout du chemin, vous trouverez vos revenus. Ainsi que votre épanouissement. C’est du moins le voeu que nous formulons.",
+          "pageCount" : 146,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d6b",
+      "id" : "pifRK2rSQzgC",
+      "volumeInfo" : {
+          "title" : "Coleman V. Commissioner of Internal Revenue",
+          "publishedDate" : "1985",
+          "pageCount" : 76,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d4f",
+      "id" : "1hq4PNNd-HMC",
+      "volumeInfo" : {
+          "title" : "Transactions of the Connecticut Academy of Arts and Sciences",
+          "publishedDate" : "1892",
+          "description" : "Vol. 15, \"To the University of Leipzig on the occasion of the five hundredth anniversary of its foundation, from Yale University and the Connecticut Academy of Arts and Sciences, 1909.\"",
+          "pageCount" : 656,
+          "categories" : [
+              "Humanities"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d02",
+      "id" : "gzhD6yRJaqkC",
+      "volumeInfo" : {
+          "title" : "Man mortal: being a reply to Mr. F. W. Grant's “Life and Immortality,” etc",
+          "authors" : [
+              "Robert ROBERTS (Christadelphian.)"
+          ],
+          "publishedDate" : "1875",
+          "pageCount" : 130,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a962398f60e37636047d43",
+      "id" : "kNwfVJB9aH4C",
+      "volumeInfo" : {
+          "title" : "An Essay on Disestablishment and the Voluntary Principle in Religion",
+          "authors" : [
+              "W. Piercy Dimes"
+          ],
+          "publishedDate" : "1874",
+          "pageCount" : 58,
+          "categories" : [
+              "Church and state"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a9625c8f60e37636047d81",
+      "id" : "TrRHgwblvxsC",
+      "volumeInfo" : {
+          "title" : "Hendrix V. Duckworth",
+          "publishedDate" : "1983",
+          "pageCount" : 38,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d1c",
+      "id" : "pVRp8A-n8h4C",
+      "volumeInfo" : {
+          "title" : "Histoire des ouvrages des sçavans, par M. B****, docteur en droit (H. Basnage, sr de Beauval)",
+          "authors" : [
+              "Henri Basnage de Beauval"
+          ],
+          "publishedDate" : "1698",
+          "pageCount" : 584,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047d0d",
+      "id" : "WwE8PFDfLBkC",
+      "volumeInfo" : {
+          "title" : "Chambers's Journal of Popular Literature, Science and Arts",
+          "publishedDate" : "1890",
+          "pageCount" : 944,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a95d4e8f60e37636047cf5",
+      "id" : "zXsREAAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Ce que la Danse m'a dit ...",
+          "authors" : [
+              "Jean-François Vazelle"
+          ],
+          "publisher" : "BoD - Books on Demand",
+          "publishedDate" : "2020-12-18",
+          "description" : "Le parcours d'un spectateur fou de Danse, devenu agent d'artistes, Directeur artistique et maintenant dramaturge pour des théâtres tels que L'Opéra de Vienne, La Scale de Milan ou encore le Bolchoï de Moscou. Une sorte de dictionnaire amoureux.",
+          "pageCount" : 462,
+          "categories" : [
+              "Performing Arts"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d16",
+      "id" : "uuZZEAAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Rwanda : Les plans B de Kagame, ou comment il a roulé tout le monde",
+          "authors" : [
+              "Pierre Rugero"
+          ],
+          "publisher" : "Les Éditions du Net",
+          "publishedDate" : "2015-05-07",
+          "description" : "Vingt ans après sa prise de pouvoir au Rwanda, le général Paul Kagame n’a pas fini d’étonner : démentant les pronostics de presque tous les analystes, l’homme a toujours emprunté des itinéraires que ne voyaient pas se dessiner ses partenaires. De son mentor Museveni à ses alliés occidentaux, en passant par ses compagnons de lutte, il a bluffé tout le monde. Recourant sans cesse à des « plans B » sous-tendus par moult mensonges, il a non seulement survécu à un exil particulièrement peu clément, mais Kagame a réussi le miracle de se transformer de cet officier mal aimé de tous en l’homme fort adulé par bien de puissants et craint par son propre peuple ainsi que tous ses voisins.",
+          "pageCount" : 14,
+          "categories" : [
+              "Literary Criticism"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "fr"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d21",
+      "id" : "lQNQW_wuEO4C",
+      "volumeInfo" : {
+          "title" : "House documents",
+          "publishedDate" : "1891",
+          "pageCount" : 934,
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }, {
+      "_id" : "67a961ba8f60e37636047d30",
+      "id" : "PUyxDwAAQBAJ",
+      "volumeInfo" : {
+          "title" : "Nanocomposite Coatings and Nanocomposite Materials",
+          "authors" : [
+              "Andreas Öchsner",
+              "W. Ahmed",
+              "N. Ali"
+          ],
+          "publisher" : "Trans Tech Publications Ltd",
+          "publishedDate" : "2009-02-11",
+          "description" : "Volume is indexed by Thomson Reuters BCI (WoS). Nanocomposite materials are formed by mixing two or more dissimilar materials at the nanoscale in order to control and develop new and improved structures and properties. The properties of nanocomposites depend not only upon the individual components used but also upon the morphology and the interfacial characteristics. Nanocomposite coatings and materials are among the most exciting and fastest-growing areas of research; with new materials being continually developed which often exhibit novel properties that are absent in the constituent materials. Nanocomposite materials and coatings therefore offer enormous potential for new applications including: aerospace, automotive, electronics, biomedical implants, non-linear optics, mechanically reinforced lightweight materials, sensors, nano-wires, batteries, bioceramics, energy conversion and many others.",
+          "pageCount" : 398,
+          "categories" : [
+              "Science"
+          ],
+          "imageLinks" : {
+              "smallThumbnail" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language" : "en"
+      }
+  }
+]
