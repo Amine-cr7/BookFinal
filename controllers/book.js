@@ -5,7 +5,7 @@ const getBooks = asynchandler(async (req,res) => {
     let query;
     let reqQuery = {...req.query}
     
-    const removeFields = ['select']
+    const removeFields = ['select','sort']
     removeFields.forEach(field => delete reqQuery[field])
 
     Object.keys(reqQuery).forEach(key => {
@@ -22,7 +22,10 @@ const getBooks = asynchandler(async (req,res) => {
         const fields = req.query.select.split(',').map(field => `volumeInfo.${field}`).join(' ');
         query = query.select(fields);
     }
-
+    if(req.query.sort){
+        const sortBy = req.query.sort.split(',').map(field => `volumeInfo.${field}`).join(' ');
+        query = query.sort(sortBy)
+    }
     const books = await query
     res.status(200).json({message:"success",count:books.length,books})
 })
