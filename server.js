@@ -1,3 +1,4 @@
+const path = require('path')
 const express = require('express');
 
 const morgan = require('morgan')
@@ -5,7 +6,7 @@ const morgan = require('morgan')
 const cors = require('cors')
 
 const dotenv = require('dotenv').config({path:'./config/.env'});
-
+const fileupload = require("express-fileupload")
 const connectDb = require('./config/db');
 const { errorHandler } = require('./middlewares/errorMiddleware');
 
@@ -24,7 +25,10 @@ console.log('MONGO_URI:', process.env.MONGO_URI);
 if (process.env.NODE_ENV === 'development') {
     app.use(morgan('dev'))
 };
+app.use(fileupload())
+app.use(express.static(path.join(__dirname , 'public')))
 app.use('/api/books',require('./routes/bookRoutes'));
 app.use('/api/users',require('./routes/userRoutes'));
+app.use('/api/favorite',require('./routes/favoriteRoutes'));
 app.use(errorHandler)
 app.listen(port, () => console.log('Server Started On Port ' + port))

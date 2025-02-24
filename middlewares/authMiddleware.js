@@ -23,4 +23,14 @@ const protect = asynchandler(async (req,res,next) => {
         throw new Error('No Token')
     }
 })
-module.exports = {protect}
+const authorize = (...roles) => {
+    console.log(roles)
+    return (req,res,next) => {
+        if(!roles.includes(req.user.role)){
+            res.status(401)
+            throw new Error(`User Role ${req.user.role} not Authorized to this route `) 
+        }
+        next()
+    }
+}
+module.exports = {protect,authorize}

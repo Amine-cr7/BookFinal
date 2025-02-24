@@ -19,7 +19,12 @@ const userSchema = new mongoose.Schema({
     password:{
         type:"String",
         required:[true,'Please Add A field Password']
-    }
+    },
+    role: {
+        type: String,
+        enum: ['user', 'publisher'],
+        default: 'user'
+      }
 },{
     timestamps:true
 })

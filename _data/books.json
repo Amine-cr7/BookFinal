@@ -7,8 +7,8 @@
           "publishedDate" : "1999",
           "pageCount" : 212,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=GX8Te99fTngC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -20,8 +20,8 @@
           "publishedDate" : "1974",
           "pageCount" : 34,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=FXd5hmJxWI0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -33,8 +33,8 @@
           "publishedDate" : "1964",
           "pageCount" : 50,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=_myHCkFM_WQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -54,8 +54,8 @@
               "Computers"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=dSzHnI1QGywC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -73,8 +73,8 @@
               "Labor"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=NDlwQJCiLMgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -92,8 +92,8 @@
               "Railroads"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=ub9bSNAX1FYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -105,8 +105,8 @@
           "publishedDate" : "1998",
           "pageCount" : 34,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=RxEJb2VqcksC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -118,8 +118,8 @@
           "publishedDate" : "1878",
           "pageCount" : 206,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=VG4n_35SHRgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -137,8 +137,8 @@
               "Horses"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Hlo_aH173uoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -153,8 +153,8 @@
           "publishedDate" : "1872",
           "pageCount" : 20,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=yFAB3dJ3HHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -166,8 +166,8 @@
           "publishedDate" : "1976",
           "pageCount" : 60,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=pmz3xKCfML8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -179,8 +179,8 @@
           "publishedDate" : "1699",
           "pageCount" : 16,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=64xdke9HqKUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -195,8 +195,8 @@
           "publishedDate" : "1871",
           "pageCount" : 72,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=xbVE3PulfKkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -211,8 +211,8 @@
           "publishedDate" : "1843",
           "pageCount" : 282,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=F2WqYxYviogC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -227,8 +227,8 @@
           "publishedDate" : "1725",
           "pageCount" : 18,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=vt7k-mO73_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -246,8 +246,8 @@
               "Environmental impact statements"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=6qdP91En9f0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -259,8 +259,8 @@
           "publishedDate" : "1857",
           "pageCount" : 590,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Bwe1Ifuq99sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -272,8 +272,8 @@
           "publishedDate" : "1970",
           "pageCount" : 52,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=KKdISG0dcM8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -285,8 +285,8 @@
           "publishedDate" : "1987",
           "pageCount" : 88,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=AgtFrKgZ4dEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -304,8 +304,8 @@
               "Nautical paraphernalia"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=cQJq4IrZv24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -320,8 +320,8 @@
           "publishedDate" : "1808",
           "pageCount" : 328,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=VGIUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -336,8 +336,8 @@
           "publishedDate" : "1879",
           "pageCount" : 102,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=f4kIc4zzPZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -355,8 +355,8 @@
               "Massachusetts"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=4k9DL_Xysj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -371,8 +371,8 @@
           "publishedDate" : "1715",
           "pageCount" : 656,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=RXsHD-sgARkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -390,8 +390,8 @@
               "Postage stamps"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=eSjkrDtdkVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -413,8 +413,8 @@
               "Technology & Engineering"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Twu2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -426,8 +426,8 @@
           "publishedDate" : "1872",
           "pageCount" : 132,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=YW-nPotMW2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -442,8 +442,8 @@
           "publishedDate" : "1862",
           "pageCount" : 40,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=CYtrDPvzFj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -463,8 +463,8 @@
               "Fiction"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=8m5bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -476,8 +476,8 @@
           "publishedDate" : "1822",
           "pageCount" : 428,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=gCEsIbKTkr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -501,8 +501,8 @@
               "Technology & Engineering"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=qtKyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -517,8 +517,8 @@
           "publishedDate" : "1755",
           "pageCount" : 50,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Co2QTgQUdIgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -530,8 +530,8 @@
           "publishedDate" : "1947",
           "pageCount" : 64,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=S5qxC8fEn6EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -543,8 +543,8 @@
           "publishedDate" : "1978",
           "pageCount" : 154,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=byfx3UEf1vIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -559,8 +559,8 @@
           "publishedDate" : "1875",
           "pageCount" : 332,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=C5js4v160WQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -575,8 +575,8 @@
           "publishedDate" : "1877",
           "pageCount" : 368,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=gUjB05TKe2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -591,8 +591,8 @@
           "publishedDate" : "1771",
           "pageCount" : 324,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=RB89nIWYDJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -604,8 +604,8 @@
           "publishedDate" : "1810",
           "pageCount" : 536,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=QbPxgExA294C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -620,8 +620,8 @@
           "publishedDate" : "1771",
           "pageCount" : 322,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=80P2c0B0HyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -639,8 +639,8 @@
               "English language"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=SxME5j7U4QEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -658,8 +658,8 @@
               "Clergy"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=NamyhpiMCuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -671,8 +671,8 @@
           "publishedDate" : "1844",
           "pageCount" : 482,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=ihzhVM5pozsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -690,8 +690,8 @@
               "Celibacy"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=XA1CN22onEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -703,8 +703,8 @@
           "publishedDate" : "1957",
           "pageCount" : 172,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=R_d9dCEJaUsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -726,8 +726,8 @@
               "Technology & Engineering"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=i_i3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -739,8 +739,8 @@
           "publishedDate" : "1871",
           "pageCount" : 540,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=sqWzuh1J7GcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -752,8 +752,8 @@
           "publishedDate" : "1974",
           "pageCount" : 66,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=-5OukjWAJU4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -775,8 +775,8 @@
               "Technology & Engineering"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=vH-0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -796,8 +796,8 @@
               "Juvenile Nonfiction"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Ds4HWTX-_L8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -809,8 +809,8 @@
           "publishedDate" : "1996",
           "pageCount" : 54,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Z1DsMrHEkDYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -825,8 +825,8 @@
           "publishedDate" : "1878",
           "pageCount" : 1062,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=t4S3FKVdV0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -841,8 +841,8 @@
           "publishedDate" : "1873",
           "pageCount" : 40,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Bj-be5_C5NAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -857,8 +857,8 @@
           "publishedDate" : "1873",
           "pageCount" : 168,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=tpjwg7I6ex0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -870,8 +870,8 @@
           "publishedDate" : "1977",
           "pageCount" : 36,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=f9s0GqKgo0IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -891,8 +891,8 @@
               "Mathematics"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=FrgrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -904,8 +904,8 @@
           "publishedDate" : "1975",
           "pageCount" : 54,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=T1mLpiRzHNMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -923,8 +923,8 @@
               "Meteorology"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=BsL0YCJnSQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -936,8 +936,8 @@
           "publishedDate" : "1886",
           "pageCount" : 256,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=3dw9_7ChuPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -949,8 +949,8 @@
           "publishedDate" : "1980",
           "pageCount" : 52,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=l-APx2D-1AcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -962,8 +962,8 @@
           "publishedDate" : "1984",
           "pageCount" : 106,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=3PxbvdPw9FgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -975,8 +975,8 @@
           "publishedDate" : "1988",
           "pageCount" : 122,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=P5B8SAqMPK4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -994,8 +994,8 @@
               "Exposition universelle de 1889"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=kM3oMTvEMQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1013,8 +1013,8 @@
               "Music"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=5I_q52-HJCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1026,8 +1026,8 @@
           "publishedDate" : "1877",
           "pageCount" : 1144,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=YMOioyV84dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1045,8 +1045,8 @@
               "Great Britain"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=9iYj0pMeS0UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1061,8 +1061,8 @@
               "Encyclopedias and dictionaries"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Mc1WEA5DhgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1077,8 +1077,8 @@
           "publishedDate" : "1765",
           "pageCount" : 128,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=l6b0YK0HF7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1100,8 +1100,8 @@
               "Alcohol"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=H3JF3D94eWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1113,8 +1113,8 @@
           "publishedDate" : "1877",
           "pageCount" : 754,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=bVsTUx_Qm3oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1129,8 +1129,8 @@
               "Technology"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=eD2hGPkm14MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1142,8 +1142,8 @@
           "publishedDate" : "1984",
           "pageCount" : 60,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=611p5zc5rMgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1158,8 +1158,8 @@
           "publishedDate" : "1868",
           "pageCount" : 28,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=EkrCOH0ivXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1177,8 +1177,8 @@
               "Science"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=9NBrruMfRtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1195,8 +1195,8 @@
           "description" : "Cet ouvrage présente, pour la première fois, un aperçu comparatif des pratiques de A à Z et présente les pratiques destinées à promouvoir l’intégrité tout au long du cycle des marchés publics, de l’évaluation des besoins à la gestion des contrats. Il offre des exemples dans les pays membres et non membres.",
           "pageCount" : 194,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=WrbVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1208,8 +1208,8 @@
           "publishedDate" : "1992",
           "pageCount" : 104,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=bIEzXR-qpI8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1221,8 +1221,8 @@
           "publishedDate" : "1967",
           "pageCount" : 60,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=t93duwV_ZZoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1241,8 +1241,8 @@
               "Science"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=WqL5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1257,8 +1257,8 @@
           "publishedDate" : "1890",
           "pageCount" : 526,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=YZKvDPxCgn8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1276,8 +1276,8 @@
               "New York (State)"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=AKNZI68PWSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1297,8 +1297,8 @@
               "Fiction"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=DG-vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1313,8 +1313,8 @@
               "Architecture"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Ad1d0TTeJr4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1326,8 +1326,8 @@
           "publishedDate" : "1804",
           "pageCount" : 614,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=IF-rzh89w_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1342,8 +1342,8 @@
           "publishedDate" : "1801",
           "pageCount" : 40,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=83VGHbnQFBAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1355,8 +1355,8 @@
           "publishedDate" : "1837",
           "pageCount" : 400,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=DEl5zw8NT68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1368,8 +1368,8 @@
           "publishedDate" : "1725",
           "pageCount" : 610,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=daR2DCvuL-cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1384,8 +1384,8 @@
           "publishedDate" : "1871",
           "pageCount" : 138,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=WaHksPbL39AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1397,8 +1397,8 @@
           "publishedDate" : "1988",
           "pageCount" : 76,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=ed2QNqi34RcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1413,8 +1413,8 @@
           "publishedDate" : "1882",
           "pageCount" : 136,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=d2bhv9B2LigC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1429,8 +1429,8 @@
           "publishedDate" : "1775",
           "pageCount" : 568,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Gr1CzyBouBQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1452,8 +1452,8 @@
               "Authors"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=1VNhR53sAB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1465,8 +1465,8 @@
           "publishedDate" : "1985",
           "pageCount" : 64,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=kAzheC8xjlwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1478,8 +1478,8 @@
           "publishedDate" : "2001",
           "pageCount" : 64,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=el1a8yuuXi0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1498,8 +1498,8 @@
               "Literary Criticism"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=NHFsYIN12WoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1517,8 +1517,8 @@
               "Asia"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=Hn234i30NV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1533,8 +1533,8 @@
               "English wit and humor"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=8U9Dh-Vb_N0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1546,8 +1546,8 @@
           "publishedDate" : "1977",
           "pageCount" : 30,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=ZF8jZ4QVmTEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1562,8 +1562,8 @@
               "Astronomy"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=-PzXWYyawBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1583,8 +1583,8 @@
               "History"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=MR2I3hdYkV0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1596,8 +1596,8 @@
           "publishedDate" : "1886",
           "pageCount" : 466,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=R1tMZ0NW1xIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1612,8 +1612,8 @@
               "Gardening"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=WlsuYM4_gisC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1625,8 +1625,8 @@
           "publishedDate" : "1870",
           "pageCount" : 566,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=_VJMuM10I7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1641,8 +1641,8 @@
           "publishedDate" : "1724",
           "pageCount" : 458,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=wMoWAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1657,8 +1657,8 @@
               "Periodicals"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=MYMals4KD3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1670,8 +1670,8 @@
           "publishedDate" : "1978",
           "pageCount" : 100,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=cLXonNqXsaQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1686,8 +1686,8 @@
               "United States"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=9SYBZggtr_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1699,8 +1699,8 @@
           "publishedDate" : "1872",
           "pageCount" : 696,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=1dI1bZKWImUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1718,8 +1718,8 @@
               "Butterflies"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=OvcTAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1731,8 +1731,8 @@
           "publishedDate" : "1953",
           "pageCount" : 74,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=3ZYv1DZiviAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1744,8 +1744,8 @@
           "publishedDate" : "1961",
           "pageCount" : 52,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=I7e7aMo6IdkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1760,8 +1760,8 @@
           "publishedDate" : "1875",
           "pageCount" : 116,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=OavKOTMoubMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1776,8 +1776,8 @@
           "publishedDate" : "1870",
           "pageCount" : 12,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=gQo24ZEO67oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1795,8 +1795,8 @@
               "Law"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=8aS7aLcQEboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1811,8 +1811,8 @@
           "publishedDate" : "1853",
           "pageCount" : 824,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=bhHmftQSbzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1827,8 +1827,8 @@
           "publishedDate" : "1888",
           "pageCount" : 604,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=QJiTlsoRkCoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1840,8 +1840,8 @@
           "publishedDate" : "1819",
           "pageCount" : 574,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=YMPQRZYSWpcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1853,8 +1853,8 @@
           "publishedDate" : "1961",
           "pageCount" : 70,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=uSQqpIJbBw8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1872,8 +1872,8 @@
               "Patents"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=QRgsMj1vLpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1888,8 +1888,8 @@
           "publishedDate" : "1875",
           "pageCount" : 1456,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=8Prhyw0MJWoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1901,8 +1901,8 @@
           "publishedDate" : "1985",
           "pageCount" : 52,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=5pelKEWBZTkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1917,8 +1917,8 @@
           "publishedDate" : "1875",
           "pageCount" : 748,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=jwXctWt0uDIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1933,8 +1933,8 @@
           "publishedDate" : "1655",
           "pageCount" : 204,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=dshuXQud4uMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -1949,8 +1949,8 @@
           "publishedDate" : "1873",
           "pageCount" : 34,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=YM_21yyfPNUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1962,8 +1962,8 @@
           "publishedDate" : "1892",
           "pageCount" : 614,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=jwNz3R9edsAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1975,8 +1975,8 @@
           "publishedDate" : "1948",
           "pageCount" : 96,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=IxKI1sInUEAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -1988,8 +1988,8 @@
           "publishedDate" : "1969",
           "pageCount" : 56,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=17rJa8W443YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2008,8 +2008,8 @@
               "Calculus"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=uBAlNm6t7pIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2024,8 +2024,8 @@
           "publishedDate" : "1822",
           "pageCount" : 566,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=wAlHu7JY9FMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2043,8 +2043,8 @@
               "Consular reports"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=fiVTIav9PU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2056,8 +2056,8 @@
           "publishedDate" : "1972",
           "pageCount" : 112,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=d1rsPkOYkJgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2073,8 +2073,8 @@
           "description" : "--> L'Ordre des Annonciades (Ordre de la Sainte Vierge, Ordre des Dames de l'Ave Maria, Ordre des 10 plaisirs de la Vierge Marie, Ordre des 10 vertus de la Vierge Marie) est un ordre monastique féminin fondé par sainte Jeanne de France et Gilbert Nicolas (Père Gabriel-Maria).",
           "pageCount" : 344,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=2RMhOht3zSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2089,8 +2089,8 @@
           "publishedDate" : "1886",
           "pageCount" : 196,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=xDLXxNLZpmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2110,8 +2110,8 @@
               "Political Science"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=SZqNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2123,8 +2123,8 @@
           "publishedDate" : "1836",
           "pageCount" : 452,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=brXdKSEWk1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2139,8 +2139,8 @@
           "publishedDate" : "1828",
           "pageCount" : 648,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=CjUn6n2nGcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2158,8 +2158,8 @@
               "Birds"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=oYH0rQcIIEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2171,8 +2171,8 @@
           "publishedDate" : "1985",
           "pageCount" : 128,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=rqVVyA5wkbUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2184,8 +2184,8 @@
           "publishedDate" : "1863",
           "pageCount" : 422,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=TS60-IKOgLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2202,8 +2202,8 @@
           "description" : "Deux milliards d’emplois devraient disparaître dans le monde d’ici 2030 ! Mais en même temps, 60% des métiers qui seront pratiqués alors doivent encore être inventés. Vous êtes optimiste ? Il le faut, c’est la condition pour gagner. Mais ça n’est pas suffisant. Encore faut-il réussir à « se vendre ». Oui oui : être son propre commercial. Ce livre vous indique comment. Comment affiner votre CV. Que dire dans une lettre de motivation. Comment se comporter lors d’un entretien. C’est court, parce qu’au bout du compte, ça doit l’être. La séduction vient dans les premiers instants. Et ensuite il faut transformer l’essai. Mais ce livre ne veut pas faire l’impasse sur l’énorme révolution qui caractérise le monde du travail. Aujourd’hui. Et demain encore plus. L’emploi, qui reste une de nos principales préoccupations, ne se décline plus de la même manière. La première partie de ce livre veut donc expliquer pourquoi il ne faut plus du tout revêtir le costume du « demandeur d’emploi ». Mais, à la place, prendre la posture de « l’offreur de compétences ». Allez-y, réinventez-vous ! Au bout du chemin, vous trouverez vos revenus. Ainsi que votre épanouissement. C’est du moins le voeu que nous formulons.",
           "pageCount" : 146,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=NejoCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2215,8 +2215,8 @@
           "publishedDate" : "1985",
           "pageCount" : 76,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=pifRK2rSQzgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2232,8 +2232,8 @@
               "Humanities"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=1hq4PNNd-HMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2248,8 +2248,8 @@
           "publishedDate" : "1875",
           "pageCount" : 130,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=gzhD6yRJaqkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2267,8 +2267,8 @@
               "Church and state"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=kNwfVJB9aH4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2280,8 +2280,8 @@
           "publishedDate" : "1983",
           "pageCount" : 38,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=TrRHgwblvxsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2296,8 +2296,8 @@
           "publishedDate" : "1698",
           "pageCount" : 584,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=pVRp8A-n8h4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2309,8 +2309,8 @@
           "publishedDate" : "1890",
           "pageCount" : 944,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=WwE8PFDfLBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2330,8 +2330,8 @@
               "Performing Arts"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=zXsREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2351,8 +2351,8 @@
               "Literary Criticism"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=uuZZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "fr"
       }
@@ -2364,8 +2364,8 @@
           "publishedDate" : "1891",
           "pageCount" : 934,
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=lQNQW_wuEO4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
@@ -2387,8 +2387,8 @@
               "Science"
           ],
           "imageLinks" : {
-              "smallThumbnail" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallphoto" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "photo" : "http://books.google.com/books/content?id=PUyxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           "language" : "en"
       }
