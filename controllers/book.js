@@ -1,7 +1,7 @@
 const path = require("path")
 const asynchandler = require('express-async-handler')
 const Book = require('../models/Book')
-
+const ErrorResponse = require('../utils/ErrorResponse');
 const getBooks = asynchandler(async (req,res) => {
     let query;
     let reqQuery = {...req.query}
@@ -57,7 +57,7 @@ const putBook = asynchandler(async(req,res) => {
         res.status(404)
         throw new Error("Book not found") 
     }
-    if(book.user != req.user.id){
+    if(book.user != req.user.id && req.user.role !== "admin"){
         res.status(400)
         throw new Error(`This not your book `)
     }
@@ -71,7 +71,7 @@ const deleteBook = asynchandler(async(req,res) => {
         res.status(404)
         throw new Error("Book not found") 
     }
-    if(book.user != req.user.id){
+    if(book.user != req.user.id && req.user.role !== "admin"){
         res.status(400)
         throw new Error(`This not your book `)
     }

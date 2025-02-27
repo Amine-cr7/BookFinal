@@ -1,70 +1,58 @@
-const asynchandler = require("express-async-handler")
-const User = require('../models/User')
-const bcrypt = require("bcrypt")
-const jwt = require("jsonwebtoken")
-const registerUser = asynchandler(async (req, res) => {
-    const { username, email, password,role } = req.body
-    if (!username || !email || !password) {
-        res.status(400).json({ "message": "Fields Required" })
-        throw new Error("Fields Required")
-    }
-    const checkUser = await User.findOne({ email })
-    if (checkUser) {
-        res.status(400)
-        throw new Error("Already Used")
-    }
-    const salt = await bcrypt.genSalt(10)
-    const hashedPass = await bcrypt.hash(password, salt)
-    const user = await User.create({ username, email, password: hashedPass,role})
-    res.status(201).json({
-        _id:user._id,
-        username:user.username,
-        email:user.email,
-        role:user.role,
-        jwtToken:generateToken(user._id)
-    })
-})
-const loginUser = asynchandler(async (req, res) => {
-    console.log(req.body)
-    const { email, password } = req.body
-    if (!email || !password) {
-        res.status(400).json({ "message": "Fields Required" })
-        throw new Error("Fields Required")
-    }
-    const user = await User.findOne({ email})
-    
-    const pass = await bcrypt.compare(password, user.password)
-    
-    if (!user && !pass) {
-        res.status(404)
-        throw new Error("User not found")
-    }
-    res.status(200).json({
-        _id:user._id,
-        username:user.username,
-        role:user.role,
-        email:user.email,
-        jwtToken:generateToken(user._id)
-    })
-})
-const UpdateUserDetails = asynchandler( async(req,res,next) => {
-    const UpdateDetails = {
-        username : req.body.username,
-        email : req.body.email
-    }
-    const user = await User.updateOne({_id:req.user.id},UpdateDetails);
-    res.status(200).json({
-        message : "success" , user
-    })
+const asyncHandler = require("express-async-handler");
+const User = require("../models/User");
+const ErrorResponse = require("../utils/ErrorResponse"); 
 
-})
-const generateToken = (id) => {
-    return jwt.sign({id} ,process.env.JWT_SECRET,{
-        expiresIn:'30d'
-    })
-}
+const getUsers = asyncHandler(async (req, res) => {
+    const users = await User.find();
+    res.status(200).json({ count: users.length, message: "Users retrieved successfully", users });
+});
+
+const getUser = asyncHandler(async (req, res, next) => {
+    const user = await User.findById(req.params.id);
+    if (!user) {
+        return next(new ErrorResponse("The requested user could not be found.", 404));
+    }
+    res.status(200).json({ message: "User retrieved successfully", user });
+});
+
+const createUser = asyncHandler(async (req, res, next) => {
+    const { username, email, password, role } = req.body;
+    if (!username || !email || !password) {
+        return next(new ErrorResponse("Invalid input: username, email, and password are required.", 400));
+    }
+
+    const user = await User.create({ username, email, password, role });
+    res.status(201).json({ message: "User created successfully", user });
+});
+
+const updateUser = asyncHandler(async (req, res, next) => {
+    const user = await User.findOneAndUpdate(
+        { _id: req.params.id },
+        req.body,
+        { new: true, runValidators: true }
+    );
+
+    if (!user) {
+        return next(new ErrorResponse("The requested user could not be found for update.", 404));
+    }
+
+    res.status(200).json({ message: "User updated successfully", user });
+});
+
+const deleteUser = asyncHandler(async (req, res, next) => {
+    const user = await User.findOneAndDelete({ _id: req.params.id });
+
+    if (!user) {
+        return next(new ErrorResponse("The requested user could not be found for deletion.", 404));
+    }
+
+    res.status(200).json({ message: "User deleted successfully", user });
+});
+
 module.exports = {
-    registerUser,
-    loginUser,
-    UpdateUserDetails
-}
+    getUsers,
+    createUser,
+    getUser,
+    updateUser,
+    deleteUser,
+};
