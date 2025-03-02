@@ -5,7 +5,7 @@ const jwt = require("jsonwebtoken");
 const ErrorResponse = require("../utils/ErrorResponse"); 
 const crypto = require("crypto")
 const nodemailer = require("nodemailer"); 
-require("dotenv").config();
+const dotenv = require('dotenv').config();
 // Register a new user
 const registerUser = asynchandler(async (req, res, next) => {
     const { username, email, password, role } = req.body;

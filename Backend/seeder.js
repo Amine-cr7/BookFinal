@@ -1,10 +1,8 @@
 const fs = require('fs')
 const mongoose = require('mongoose')
-const dotenv = require('dotenv')
-dotenv.config({ path: './config/.env' });
+const dotenv = require('dotenv').config();
 const Book = require('./models/Book');
 const User = require('./models/User');
-
 mongoose.connect(process.env.MONGO_URI)
 
 const books = JSON.parse(fs.readFileSync(`${__dirname}/_data/books.json`, 'utf-8'));

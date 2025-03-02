@@ -5,7 +5,7 @@ const morgan = require('morgan')
  
 const cors = require('cors')
 
-const dotenv = require('dotenv').config({path:'./config/.env'});
+const dotenv = require('dotenv').config();
 const fileupload = require("express-fileupload")
 const connectDb = require('./config/db');
 const errorHandler = require('./middlewares/errorMiddleware');
