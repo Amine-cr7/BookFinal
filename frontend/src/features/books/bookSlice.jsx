@@ -13,7 +13,7 @@ export const getBooks = createAsyncThunk('books/getAll',async (_,thunkApi) =>{
     try{
       return  await bookService.getBooks()
     }catch (error) {
-        const message = (error.message && error.response.data && error.response.data.message)
+        const message = (error.message && error.response.data && error.response.data.error)
             || error.message || error.toString()
         return thunkApi.rejectWithValue(message)
     }

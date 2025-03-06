@@ -57,53 +57,54 @@ export default function Register() {
   }
   return (
     <>
-      <section className='heading'>
-        <h1>
-           Register
+    <div className='d-flex flex-column justify-content-center align-items-center vh-100'>
+      <section className='heading '>
+        <h1 className='text-center'>
+           Create Account
         </h1>
-        <p>please create an account</p>
       </section>
-      <section className="form">
+      <section className="form w-75">
         <form action="" onSubmit={onSubmit}>
-          <div className="form-group">
+          <div className="form-group mt-2">
             <input type="text" className='form-control' id='username'
               name='username' value={username} placeholder='Enter Your Usrname'
               onChange={onchange}
             />
 
           </div>
-          <div className="form-group">
+          <div className="form-group mt-2">
             <input type="text" className='form-control' id='role'
               name='role' value={role} placeholder='Enter Your Role'
               onChange={onchange}
             />
 
           </div>
-          <div className="form-group">
+          <div className="form-group mt-2">
             <input type="email" className='form-control' id='email'
               name='email' value={email} placeholder='Enter Your Email'
               onChange={onchange}
             />
             
           </div>
-          <div className="form-group">
+          <div className="form-group mt-2">
             <input type="password" className='form-control' id='password'
               name='password' value={password} placeholder='Enter Your Password'
               onChange={onchange}
             />
             
           </div>
-          <div className="form-group">
+          <div className="form-group mt-2">
             <input type="password" className='form-control' id='password2'
               name='password2' value={password2} placeholder='Cofirm Your Password'
               onChange={onchange}
             />
           </div>
-          <div className="form-group">
-            <button className='btn btn-block'>Submit</button>
+          <div className="form-group mt-2 text-center ">
+            <button className='btn w-25 p-2 fs-5 bg-dark text-light btn-block'>Submit</button>
           </div>
         </form>
       </section>
+      </div>
     </>
   )
 }

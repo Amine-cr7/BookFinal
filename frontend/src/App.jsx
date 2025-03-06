@@ -1,23 +1,32 @@
 import React, { useEffect } from 'react'
 import { useSelector,useDispatch } from 'react-redux'
-import { useNavigate } from 'react-router-dom'
+import { BrowserRouter, Link, Route, Routes, useNavigate } from 'react-router-dom'
 import { getBooks, reset } from './features/books/bookSlice'
+import Register from './pages/Register'
+import Login from './pages/Login'
+import { logout } from './features/auth/authSlice'
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap/dist/js/bootstrap.bundle.min"
 export default function App() {
-    const dispatch = useDispatch()
-    let { books, isSuccess, isError, isLoading } = useSelector(state => state.books)
-    useEffect(() => {
-        dispatch(getBooks())
-        return () => {
-          dispatch(reset())
-        }
-      }, [])
-    books = books.books
-    console.log(books)
+  const dispatch = useDispatch()
+    const onlogout = () => {
+      dispatch(logout())
+    }
   return (
-    <div>
-        {books && books.map(item => (
-            <li>{item.volumeInfo.title}</li>
-        ))}
-    </div>
+    <BrowserRouter>
+     <div className="container">
+      <Routes>
+        <Route path='/' element={
+          <div>
+            <button className='btn btn-danger' onClick={onlogout}>logout</button>
+            <Link to={"/login"}>login</Link>
+            <Link to={"/register"}>register</Link>
+          </div>
+        }/>
+        <Route path='/register' element={<Register/>}/>
+        <Route path='/login' element={<Login/>}/>
+      </Routes>
+     </div>
+    </BrowserRouter>
   )
 }

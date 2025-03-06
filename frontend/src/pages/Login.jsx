@@ -55,7 +55,7 @@ export default function Login() {
       <section className="form">
         <form action="" onSubmit={onSubmit}>
           <div className="form-group">
-            <input type="email" className='form-control' id='email'
+            <input type="text" className='form-control' id='email'
               name='email' value={email} placeholder='Enter Your Email'
               onChange={onchange}
             />
