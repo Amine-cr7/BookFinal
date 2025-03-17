@@ -3,6 +3,7 @@ import bookService from "./bookService";
 
 const initialState = {
     books: [],
+    selectedBook : null ,
     isError: '',
     isSuccess: '',
     isLoading: '',
@@ -12,6 +13,16 @@ const initialState = {
 export const getBooks = createAsyncThunk('books/getAll',async (_,thunkApi) =>{
     try{
       return  await bookService.getBooks()
+    }catch (error) {
+        const message = (error.message && error.response.data && error.response.data.error)
+            || error.message || error.toString()
+        return thunkApi.rejectWithValue(message)
+    }
+})
+
+export const getBookById = createAsyncThunk('book/getBookByid',async(id,thunkApi) =>{
+    try{
+        return await bookService.getBookById(id)
     }catch (error) {
         const message = (error.message && error.response.data && error.response.data.error)
             || error.message || error.toString()
@@ -36,6 +47,20 @@ export const bookSlice = createSlice({
             state.isError = false
         })
         .addCase(getBooks.rejected,(state,action) => {
+            state.isLoading = false
+            state.message = action.payload
+            state.isError = true
+        })
+
+        .addCase(getBookById.pending,(state) => {
+            state.isLoading = true
+        })
+        .addCase(getBookById.fulfilled,(state,action) => {
+            state.isLoading = false
+            state.selectedBook = action.payload
+            state.isError = false
+        })
+        .addCase(getBookById.rejected,(state,action) => {
             state.isLoading = false
             state.message = action.payload
             state.isError = true
