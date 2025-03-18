@@ -10,9 +10,9 @@ const initialState = {
     message: ''
 }
 
-export const getBooks = createAsyncThunk('books/getAll',async (_,thunkApi) =>{
+export const getBooks = createAsyncThunk('books/getAll',async (language = null,thunkApi) =>{
     try{
-      return  await bookService.getBooks()
+      return  await bookService.getBooks(language)
     }catch (error) {
         const message = (error.message && error.response.data && error.response.data.error)
             || error.message || error.toString()

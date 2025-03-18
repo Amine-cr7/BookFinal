@@ -6,10 +6,33 @@ import { Link } from "react-router-dom";
 export default function Dashboard() {
     const { books, isSuccess, isError, isLoading } = useSelector(state => state.books)
     const dispatch = useDispatch()
+
+    const categories = []
+    const [getLanguage, setLanguage] = useState(null)
+    const [selectedCategories, setSelectedCategories] = useState([]);
+    const [count , setCount] = useState(null)
+    console.log(count)
+    const handleCategoryChange = (event) => {
+        const { value, checked } = event.target;
+
+        setSelectedCategories((prev) =>
+            checked ? [...prev, value] : prev.filter((category) => category !== value)
+        );
+    };
+
+
     useEffect(() => {
-        dispatch(getBooks());
-    }, [dispatch]);
+        dispatch(getBooks({ language: getLanguage, categories: selectedCategories , pageCount : count }));
+    }, [dispatch, getLanguage, selectedCategories , count]);
+
+
     const bookList = books?.books || [];
+    bookList.forEach(element => {
+        if (!categories.includes(element.volumeInfo.categories[0])) {
+            categories.push(element.volumeInfo.categories[0])
+        }
+    });
+    console.log(categories)
     // pagination : 
     const [currentPage, setCurrentPage] = useState(1)
     const BooksPerPage = 12
@@ -17,7 +40,7 @@ export default function Dashboard() {
 
     const startIndex = (currentPage - 1) * BooksPerPage
     const currentBooks = bookList.slice(startIndex, startIndex + BooksPerPage)
-    {console.log(books.books?.[0]?._id)}
+
 
 
     return (
@@ -25,6 +48,26 @@ export default function Dashboard() {
             <section className="heading bg-danger p-2 w-25 border rounded-2">
                 <p className="text-center">Books Dashboard</p>
             </section>
+            <div>
+                fr <input type="radio" name="ln" value={"fr"} onChange={(e) => setLanguage(e.target.value)} />
+                en <input type="radio" name="ln" value={"en"} onChange={(e) => setLanguage(e.target.value)} />
+            </div>
+            <div>
+                {categories.map((item) => (
+                    <label key={item}>
+                        <input
+                            type="checkbox"
+                            value={item}
+                            onChange={handleCategoryChange}
+                            checked={selectedCategories.includes(item)}
+                        />
+                        {item}
+                    </label>
+                ))}
+            </div>
+            <div>
+                <input type="number" onChange={(e) => setCount(e.target.value) } />
+            </div>
 
             <section className="content">
                 {isLoading && <p>Loading books...</p>}
