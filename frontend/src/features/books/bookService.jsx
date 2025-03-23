@@ -8,10 +8,7 @@ const getBooks = async ({ language, categories , pageCount }) => {
     
     if (language) url += `language=${language}&`;
     if (categories?.length) url += `categories=${categories.join(",")}&`;
-    if (pageCount) url += `pageCount=${pageCount}&`;
-
-    console.log("Fetching books from:", url);
-    
+    if (pageCount) url += `pageCount=${pageCount}&`;    
     const response = await axios.get(url);
     return response.data;
 };

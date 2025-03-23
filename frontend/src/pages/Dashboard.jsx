@@ -11,7 +11,6 @@ export default function Dashboard() {
     const [getLanguage, setLanguage] = useState(null)
     const [selectedCategories, setSelectedCategories] = useState([]);
     const [count , setCount] = useState(null)
-    console.log(count)
     const handleCategoryChange = (event) => {
         const { value, checked } = event.target;
 
@@ -32,7 +31,6 @@ export default function Dashboard() {
             categories.push(element.volumeInfo.categories[0])
         }
     });
-    console.log(categories)
     // pagination : 
     const [currentPage, setCurrentPage] = useState(1)
     const BooksPerPage = 12
@@ -53,8 +51,8 @@ export default function Dashboard() {
                 en <input type="radio" name="ln" value={"en"} onChange={(e) => setLanguage(e.target.value)} />
             </div>
             <div>
-                {categories.map((item) => (
-                    <label key={item}>
+                {categories.map((item,index) => (
+                    <label key={index}>
                         <input
                             type="checkbox"
                             value={item}
