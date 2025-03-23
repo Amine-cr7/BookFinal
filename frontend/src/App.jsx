@@ -9,6 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.bundle.min"
 import Dashboard from './pages/Dashboard'
 import ShowBook from './pages/ShowBook'
+import CreateBook from './pages/CreateBook'
 export default function App() {
   const dispatch = useDispatch()
     const onlogout = () => {
@@ -20,6 +21,7 @@ export default function App() {
       <Routes>
         <Route path='/' element={<Dashboard/>}/>
         <Route path='/book/:_id' element={<ShowBook/>}/>
+        <Route path='/create-book' element={<CreateBook/>}/>
         <Route path='/register' element={<Register/>}/>
         <Route path='/login' element={<Login/>}/>
       </Routes>

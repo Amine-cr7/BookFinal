@@ -7,12 +7,12 @@ const errorHandler = (err,req,res,next) => {
     error.message = err.message    
 
     if(err.name === 'CastError'){
-        const message = `Bootcamp not found for id ${err.value}`
+        const message = `BOOK not found for id ${err.value}`
         error = new ErrorResponse(message,404)
     }
 
     if(err.code === 11000){
-        const message = `Bootcamp with this name ${err.keyValue.name} exits !! `;
+        const message = `BOOK with this name ${err.keyValue.name} exits !! `;
         error = new ErrorResponse(message,400)
     }
 

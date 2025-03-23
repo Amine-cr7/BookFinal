@@ -2,7 +2,8 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
 import bookService from "./bookService";
 
 const initialState = {
-    books: [],
+    // books: [],
+    books: { books: [] },
     selectedBook : null ,
     isError: '',
     isSuccess: '',
@@ -29,6 +30,23 @@ export const getBookById = createAsyncThunk('book/getBookByid',async(id,thunkApi
         return thunkApi.rejectWithValue(message)
     }
 })
+export const createBook = createAsyncThunk(
+    'books/create',
+    async (bookData, thunkAPI) => {
+      try {
+        const token = thunkAPI.getState().auth.user?.token || 
+                      thunkAPI.getState().auth.user?.jwtToken;
+        
+        if (!token) {
+          throw new Error('No authentication token found');
+        }
+        
+        return await bookService.createBook(bookData, token);
+      } catch (error) {
+        return thunkAPI.rejectWithValue(error.message);
+      }
+    }
+  );
 
 export const bookSlice = createSlice({
     name: 'book',
@@ -38,6 +56,24 @@ export const bookSlice = createSlice({
     },
     extraReducers:(builder) => {
         builder
+        .addCase(createBook.pending,(state) => {
+            state.isLoading = true
+        })
+        .addCase(createBook.fulfilled, (state, action) => {
+            state.isLoading = false;
+            if (action.payload && typeof action.payload === "object") {
+                state.books.books.push(action.payload);
+            } else {
+                console.error("Invalid payload received:", action.payload);
+            }
+            state.isError = false;
+        })
+        .addCase(createBook.rejected,(state,action) => {
+            state.isLoading = false
+            state.message = action.payload
+            state.isError = true
+        })
+
         .addCase(getBooks.pending,(state) => {
             state.isLoading = true
         })
