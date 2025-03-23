@@ -11,24 +11,12 @@ const getBooks = async ({ language, categories , pageCount }) => {
     if (categories?.length) url += `categories=${categories.join(",")}&`;
     if (pageCount) url += `pageCount=${pageCount}&`;
 
-    console.log("Fetching books from:", url);
+    
     
     const response = await axios.get(url);
     return response.data;
 };
-// const createBook = async (bookData,token) => {
-//     if(!token) throw new Error ("Authentication token is missing!")
-//     const config = {
-//         headers:{
-//             Authorization:`Bearer ${token}`
-//         }
-//     }
-//     const response = await axios.post(API_URL,bookData,config)
-//     return response.data
-// }
-// features/books/bookSlice.js
-// features/books/bookSlice.js
-// features/books/bookSlice.js
+
 const createBook = async (bookData, token) => {
   const config = {
     headers: {
@@ -36,14 +24,8 @@ const createBook = async (bookData, token) => {
       'Content-Type': 'application/json'
     }
   };
-  
-  try {
     const response = await axios.post(API_URL, bookData, config);
     return response.data;
-  } catch (error) {
-    console.error('Error creating book:', error.response?.data);
-    throw error;
-  }
 };
 
 
@@ -52,11 +34,34 @@ const getBookById = async (_id) => {
     return response.data
 }
 
+const updateBook = async (_id,Updatebook,token) => {
+  const config = {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      'Content-Type': 'application/json'
+    }
+  };
+  const response = await axios.put(`${API_URL}${_id}`,Updatebook,config)
+  return response.data
+}
+
+const deleteBook = async (_id,token) => {
+  const config = {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      'Content-Type': 'application/json'
+    }
+  };
+  const response = await axios.delete(`${API_URL}${_id}`,config)
+  return response.data
+}
  
 const bookService = {
     getBooks,
     getBookById,
-    createBook
+    createBook,
+    updateBook,
+    deleteBook
 }
 
 export default bookService

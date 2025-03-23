@@ -1,29 +1,19 @@
 import { useEffect } from "react"
 import { useDispatch, useSelector } from "react-redux"
-import { getBookById } from "../features/books/bookSlice"
-import { useNavigate, useParams } from "react-router-dom"
+import { deleteBook, getBookById } from "../features/books/bookSlice"
+import { Link, useNavigate, useParams } from "react-router-dom"
 
 export default function ShowBook() {
     const { selectedBook, isSuccess, isError, isLoading } = useSelector(state => state.books)
-    // const dispatch = useDispatch()
-    // const { _id } = useParams()
-
-    // useEffect(() => {
-    //     dispatch(getBookById(_id))
-    // }, [dispatch, _id])
     const dispatch = useDispatch();
     const { _id } = useParams();
     const navigate = useNavigate();
-  
+
     useEffect(() => {
-      dispatch(getBookById(_id)).unwrap().catch((error) => {
-        if (error === "Unauthorized") {
-          navigate('/login');
-        }
-      });
+        dispatch(getBookById(_id)).unwrap()
     }, [dispatch, _id, navigate]);
 
-    return(
+    return (
         <div className="container mt-5">
             {isLoading && (
                 <div className="text-center py-5">
@@ -50,9 +40,9 @@ export default function ShowBook() {
                                 src={selectedBook.volumeInfo?.imageLinks?.photo || "https://via.placeholder.com/300x450?text=No+Cover"}
                                 alt={selectedBook.volumeInfo?.title}
                                 className="img-fluid rounded-start"
-                                style={{ 
-                                    width: '100%', 
-                                    height: '60vh', 
+                                style={{
+                                    width: '100%',
+                                    height: '60vh',
                                     objectFit: 'cover',
                                     objectPosition: 'top'
                                 }}
@@ -60,7 +50,7 @@ export default function ShowBook() {
                         </div>
                     </div>
 
-                    
+
                     <div className="col-md-8">
                         <div className="card border-0">
                             <div className="card-body p-4">
@@ -75,14 +65,14 @@ export default function ShowBook() {
                                             {selectedBook.volumeInfo.authors.join(', ')}
                                         </div>
                                     )}
-                                    
+
                                     {selectedBook.volumeInfo?.publishedDate && (
                                         <div>
                                             <i className="bi bi-calendar me-2"></i>
                                             {new Date(selectedBook.volumeInfo.publishedDate).getFullYear()}
                                         </div>
                                     )}
-                                    
+
                                     {selectedBook.volumeInfo?.pageCount && (
                                         <div>
                                             <i className="bi bi-file-text me-2"></i>
@@ -95,7 +85,7 @@ export default function ShowBook() {
                                 {selectedBook.volumeInfo?.categories && (
                                     <div className="mb-4">
                                         {selectedBook.volumeInfo.categories.map((category, index) => (
-                                            <span 
+                                            <span
                                                 key={index}
                                                 className="badge bg-primary me-2 mb-2"
                                             >
@@ -105,7 +95,7 @@ export default function ShowBook() {
                                     </div>
                                 )}
 
-                                
+
                                 <div className="mb-5">
                                     <h4 className="mb-3">Description</h4>
                                     <p className="lead" style={{ lineHeight: '1.8' }}>
@@ -113,7 +103,7 @@ export default function ShowBook() {
                                     </p>
                                 </div>
 
-                                
+
                                 <div className="row row-cols-2 row-cols-md-3 g-4 mb-5">
                                     <div className="col">
                                         <div className="card h-100 border-0 shadow-sm">
@@ -125,7 +115,7 @@ export default function ShowBook() {
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     <div className="col">
                                         <div className="card h-100 border-0 shadow-sm">
                                             <div className="card-body">
@@ -136,7 +126,7 @@ export default function ShowBook() {
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     <div className="col">
                                         <div className="card h-100 border-0 shadow-sm">
                                             <div className="card-body">
@@ -150,15 +140,14 @@ export default function ShowBook() {
                                 </div>
 
                                 {/* Action Button */}
-                                <a 
-                                    href={selectedBook.volumeInfo?.infoLink} 
-                                    className="btn btn-primary btn-lg px-5 py-3"
-                                    target="_blank" 
-                                    rel="noopener noreferrer"
-                                >
-                                    <i className="bi bi-book me-2"></i>
-                                    View Book
-                                </a>
+                                <Link to={`/admin/update-book/${selectedBook._id}`}>
+                                    UpdateBook
+                                </Link>
+                                <button onClick={() => {
+                                    dispatch(deleteBook(_id))
+                                    navigate("/")
+
+                                }}>delete</button>
                             </div>
                         </div>
                     </div>

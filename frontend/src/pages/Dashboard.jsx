@@ -16,8 +16,6 @@ export default function Dashboard() {
     const BooksPerPage = 12;
     const bookList = books?.books || [];
     
-    
-    // Calculate derived values
   
     const categories = [...new Set(bookList
         .map(book => book.volumeInfo?.categories?.[0]) // Add optional chaining
@@ -46,7 +44,8 @@ export default function Dashboard() {
                 <h1 className="display-5 fw-bold text-primary m-0">📚 Book Explorer</h1>
             </header>
             <div className="d-flex justify-content-between align-content-center">
-            <Link to="/create-book" className="btn btn-primary btn-lg px-4 py-2">
+
+                    <Link to="/admin/create-book" className="btn btn-primary btn-lg px-4 py-2">
                         <i className="bi bi-plus-circle me-2"></i>
                         Create Book
                     </Link>
