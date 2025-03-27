@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import CreateBook from "./CreateBook";
 
 export default function Dashboard() {
-    const { books, isSuccess, isError, isLoading } = useSelector(state => state.books);
+    const { books, isError, isLoading } = useSelector(state => state.books);
     const dispatch = useDispatch();
 
     const [getLanguage, setLanguage] = useState(null);

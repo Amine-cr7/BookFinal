@@ -10,10 +10,12 @@ import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Header from "./components/Header";
 import ProtectedRoute from "./components/ProtectedRoute";
-import AdminPanel from "./pages/AdminPanel";
+import AdminPanel from "./pages/Admin/AdminPanel";
 import Unauthorized from "./pages/Unauthorized";
 import CreateBook from "./pages/CreateBook";
 import UpdateBook from "./pages/UpdateBook";
+import ShowUser from "./pages/Admin/ShowUser";
+import CreateUser from "./pages/Admin/CreateUser";
 
 export default function App() {
 
@@ -37,6 +39,8 @@ export default function App() {
             <Route path="/admin" element={<AdminPanel/>} />
             <Route path="/admin/create-book" element={<CreateBook/>}/>
             <Route path="/admin/update-book/:_id" element={<UpdateBook/>}/>
+            <Route path="/admin/users/:_id" element={<ShowUser/>}/>
+            <Route path="/admin/users/create-user" element={<CreateUser/>}/>
           </Route>
 
           {/* Unauthorized Page */}
