@@ -1,14 +1,14 @@
 import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { getUsers } from '../../features/users/userSlice'
-import { Link } from 'react-router-dom'
+import { deleteUser, getUsers } from '../../features/users/userSlice'
+import { Link, useNavigate } from 'react-router-dom'
 
 export default function AdminPanel() {
   const { users, isError, isLoading } = useSelector(state => state.users)
   const dispatch = useDispatch()
 
   const usersList = users?.users || [];
-
+  const navigate = useNavigate()
 
   useEffect(() => {
     dispatch(getUsers())
@@ -43,6 +43,14 @@ export default function AdminPanel() {
                     <Link to={`/admin/users/create-user`} className="btn btn-primary" >
                       Add user
                     </Link>
+                    <Link to={`/admin/users/update-user/${user._id}`} className="btn btn-primary" >
+                      Update User
+                    </Link> 
+                    <button onClick={() => {
+                      dispatch(deleteUser(user._id))
+                      
+
+                    }}>delete</button>
                   </td>
                 </tr>
               ))}

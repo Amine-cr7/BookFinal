@@ -4,18 +4,19 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { logout } from "./features/auth/authSlice";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import Dashboard from "./pages/Dashboard";
-import ShowBook from "./pages/ShowBook";
+import Dashboard from "./pages/User/Dashboard";
+import ShowBook from "./pages/User/ShowBook";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Header from "./components/Header";
 import ProtectedRoute from "./components/ProtectedRoute";
 import AdminPanel from "./pages/Admin/AdminPanel";
 import Unauthorized from "./pages/Unauthorized";
-import CreateBook from "./pages/CreateBook";
-import UpdateBook from "./pages/UpdateBook";
+import CreateBook from "./pages/User/CreateBook";
+import UpdateBook from "./pages/User/UpdateBook";
 import ShowUser from "./pages/Admin/ShowUser";
 import CreateUser from "./pages/Admin/CreateUser";
+import UpdateUser from "./pages/Admin/UpdateUser";
 
 export default function App() {
 
@@ -41,6 +42,7 @@ export default function App() {
             <Route path="/admin/update-book/:_id" element={<UpdateBook/>}/>
             <Route path="/admin/users/:_id" element={<ShowUser/>}/>
             <Route path="/admin/users/create-user" element={<CreateUser/>}/>
+            <Route path="/admin/users/update-user/:id" element={<UpdateUser/>}/>
           </Route>
 
           {/* Unauthorized Page */}

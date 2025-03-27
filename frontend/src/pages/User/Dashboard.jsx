@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { getBooks } from "../features/books/bookSlice";
+import { getBooks } from "../../features/books/bookSlice";
 import { Link } from "react-router-dom";
 import CreateBook from "./CreateBook";
 

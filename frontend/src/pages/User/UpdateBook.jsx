@@ -1,10 +1,11 @@
-import { useState } from "react";
-import { useDispatch } from "react-redux";
-import { createBook } from "../features/books/bookSlice";
-import { useNavigate } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { updateBook } from "../../features/books/bookSlice";
+import { useNavigate, useParams } from "react-router-dom";
 
+export default function UpdateBook() {
+    const { selectedBook } = useSelector(state => state.books);
 
-export default function CreateBook() {
     const [title, setTitle] = useState("");
     const [authors, setAuthors] = useState("");
     const [publisher, setPublisher] = useState("");
@@ -16,12 +17,27 @@ export default function CreateBook() {
     const [language, setLanguage] = useState("");
 
     const dispatch = useDispatch();
-    const navigate = useNavigate()
+    const navigate = useNavigate();
+    const { _id } = useParams();
+
+    useEffect(() => {
+        if (selectedBook) {
+            setTitle(selectedBook.volumeInfo?.title || "");
+            setAuthors(selectedBook.volumeInfo?.authors?.join(", ") || "");
+            setPublisher(selectedBook.volumeInfo?.publisher || "");
+            setPublishedDate(selectedBook.volumeInfo?.publishedDate || "");
+            setDescription(selectedBook.volumeInfo?.description || "");
+            setPageCount(selectedBook.volumeInfo?.pageCount || "");
+            setCategories(selectedBook.volumeInfo?.categories?.join(", ") || "");
+            setPhoto(selectedBook.volumeInfo?.imageLinks?.thumbnail || "");
+            setLanguage(selectedBook.volumeInfo?.language || "");
+        }
+    }, [selectedBook]);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
 
-        const newBook = {
+        const updatedBook = {
             volumeInfo: {
                 title,
                 authors: authors.split(",").map(a => a.trim()),
@@ -35,49 +51,28 @@ export default function CreateBook() {
                 },
                 language
             }
-
         };
-
-        console.log(newBook)
-
-        try {
-            await dispatch(createBook(newBook)).unwrap();
-            navigate("/");
-        } catch (error) {
-            console.error("Full error object:", error);
-
-            // PROPERLY DECLARE THE VARIABLE WITH let/const
-            let errorMessage = "Failed to create book"; // <- Declaration added
-
-            if (error.name === "TypeError") {
-                errorMessage = "Network error - check backend connection";
-            } else if (error.message) {
-                errorMessage = error.message;
-            } else if (error.data?.message) {
-                errorMessage = error.data.message;
-            }
-
-            alert(errorMessage);
-        }
+        console.log(updatedBook)
+        dispatch(updateBook({ _id: _id, Updatebook: updatedBook })).unwrap();
+        navigate("/");
     };
-
 
     return (
         <>
             <div className="container-fluid px-4 py-5">
                 <header className="d-flex justify-content-center align-items-center mb-5 flex-wrap gap-3">
-                    <h1 className="display-5 fw-bold text-primary m-0">📚 Create Book</h1>
+                    <h1 className="display-5 fw-bold text-primary m-0">📚 Update Book</h1>
                 </header>
             </div>
             <div className="d-flex justify-content-center align-items-center">
                 <form onSubmit={handleSubmit} className="w-50 p-4 border rounded">
                     <div className="form-group">
                         <label className="form-label">Title</label>
-                        <input type="text" className="form-control" value={title} onChange={(e) => setTitle(e.target.value)} required />
+                        <input type="text" className="form-control" value={title} onChange={(e) => setTitle(e.target.value)}  />
                     </div>
                     <div className="form-group">
                         <label className="form-label">Authors (separated by commas)</label>
-                        <input type="text" className="form-control" value={authors} onChange={(e) => setAuthors(e.target.value)} required />
+                        <input type="text" className="form-control" value={authors} onChange={(e) => setAuthors(e.target.value)}  />
                     </div>
                     <div className="form-group">
                         <label className="form-label">Publisher</label>
@@ -108,7 +103,7 @@ export default function CreateBook() {
                         <input type="text" className="form-control" value={language} onChange={(e) => setLanguage(e.target.value)} />
                     </div>
                     <div className="form-group">
-                        <button className="btn btn-primary mt-3 w-100" type="submit">Add Book</button>
+                        <button className="btn btn-primary mt-3 w-100" type="submit">Update Book</button>
                     </div>
                 </form>
             </div>
