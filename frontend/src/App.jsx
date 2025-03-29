@@ -6,8 +6,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import Dashboard from "./pages/User/Dashboard";
 import ShowBook from "./pages/User/ShowBook";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
+import Register from "./pages/Auth/Register";
+import Login from "./pages/Auth/Login";
 import Header from "./components/Header";
 import ProtectedRoute from "./components/ProtectedRoute";
 import AdminPanel from "./pages/Admin/AdminPanel";
@@ -17,6 +17,7 @@ import UpdateBook from "./pages/User/UpdateBook";
 import ShowUser from "./pages/Admin/ShowUser";
 import CreateUser from "./pages/Admin/CreateUser";
 import UpdateUser from "./pages/Admin/UpdateUser";
+import Favorite from "./pages/Favorite/Favorite";
 
 export default function App() {
 
@@ -33,6 +34,7 @@ export default function App() {
           <Route element={<ProtectedRoute allowedRoles={["user", "admin"]} />}>
             <Route path="/" element={<Dashboard />} />
             <Route path="/book/:_id" element={<ShowBook />} />
+            <Route path="/favorites" element={<Favorite />} />
           </Route>
 
           {/* Admin-Only Route */}
