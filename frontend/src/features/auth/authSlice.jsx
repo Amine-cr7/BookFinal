@@ -5,7 +5,11 @@ const user = JSON.parse(localStorage.getItem('user'));
 
 const initialState = {
     user: user ? user : null,
+<<<<<<< HEAD
     role: user ? user.role : null,
+=======
+    role:user ? user.role : null,
+>>>>>>> 74e7283c466d136ca2465399e9eb17b8f9df8f2f
     isError: false,
     isSuccess: false,
     isLoading: false,
@@ -37,6 +41,7 @@ export const login = createAsyncThunk('auth/login', async (user, thunkApi) => {
         return thunkApi.rejectWithValue(message);
     }
 });
+<<<<<<< HEAD
 
 export const forget = createAsyncThunk('auth/forget', async (email, thunkApi) => {
     try {
@@ -49,6 +54,8 @@ export const forget = createAsyncThunk('auth/forget', async (email, thunkApi) =>
         return thunkApi.rejectWithValue(message);
     }
 });
+=======
+>>>>>>> 74e7283c466d136ca2465399e9eb17b8f9df8f2f
 
 export const resetPass = createAsyncThunk('auth/reset', async (data, thunkApi) => {
     try {
@@ -104,6 +111,7 @@ export const authSlice = createSlice({
                 state.isError = true;
                 state.message = action.payload;
                 state.user = null;
+<<<<<<< HEAD
             })
 
             // Forgot Password
@@ -143,3 +151,11 @@ export const authSlice = createSlice({
 
 export const { reset, logout } = authSlice.actions;
 export default authSlice.reducer;
+=======
+            });
+    },
+});
+
+export const { reset, logout } = authSlice.actions;
+export default authSlice.reducer;
+>>>>>>> 74e7283c466d136ca2465399e9eb17b8f9df8f2f

@@ -1,47 +1,26 @@
-import React from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { logout } from "./features/auth/authSlice";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min";
-import Dashboard from "./pages/Dashboard";
-import ShowBook from "./pages/ShowBook";
-import Register from "./pages/Register";
-import Login from "./pages/Login";
-import Header from "./components/Header";
-import ProtectedRoute from "./components/ProtectedRoute";
-import AdminPanel from "./pages/AdminPanel";
-import Unauthorized from "./pages/Unauthorized";
-import ForgotPassword from "./pages/ForgotPassword";
-import ResetPassword from "./pages/ResetPassword";
-
+import React, { useEffect } from 'react'
+import { useSelector,useDispatch } from 'react-redux'
+import { BrowserRouter, Link, Route, Routes, useNavigate } from 'react-router-dom'
+import { getBooks, reset } from './features/books/bookSlice'
+import Register from './pages/Register'
+import Login from './pages/Login'
+import { logout } from './features/auth/authSlice'
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap/dist/js/bootstrap.bundle.min"
+import Dashboard from './pages/Dashboard'
+import ShowBook from './pages/ShowBook'
 export default function App() {
 
   return (
     <BrowserRouter>
-      <Header />
-      <div className="container">
-        <Routes>
-          {/* Public Routes */}
-          <Route path="/register" element={<Register />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/forgot-password" element={<ForgotPassword />} />
-          <Route path="/reset-password/:token" element={<ResetPassword />} />
-          {/* Protected User Route */}
-          <Route element={<ProtectedRoute allowedRoles={["user", "admin"]} />}>
-            <Route path="/" element={<Dashboard />} />
-            <Route path="/book/:_id" element={<ShowBook />} />
-          </Route>
-
-          {/* Admin-Only Route */}
-          <Route element={<ProtectedRoute allowedRoles={["admin"]} />}>
-            <Route path="/admin" element={<AdminPanel />} />
-          </Route>
-
-          {/* Unauthorized Page */}
-          <Route path="/unauthorized" element={<Unauthorized />} />
-        </Routes>
-      </div>
+     <div className="container">
+      <Routes>
+        <Route path='/' element={<Dashboard/>}/>
+        <Route path='/book/:_id' element={<ShowBook/>}/>
+        <Route path='/register' element={<Register/>}/>
+        <Route path='/login' element={<Login/>}/>
+      </Routes>
+     </div>
     </BrowserRouter>
   );
 }

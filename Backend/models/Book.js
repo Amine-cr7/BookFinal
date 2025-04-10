@@ -4,14 +4,14 @@ const bookSchema = new mongoose.Schema({
   id: { type: String, default: uuidv4, unique: true },
   user: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
   volumeInfo: {
-    title: { type: String,unique: true, required: [true,'Please Add field title'] },
+    title: { type: String,unique: true },
     publishedDate: { type: String },
-    pageCount: { type: Number, required: [true,'Please Add field page count']},
+    pageCount: { type: Number},
     imageLinks: {
       smallphoto: { type: String},
-      photo: { type: String, required: [true,'Please Add field image'] },
+      photo: { type: String,  },
     },
-    language: { type: String, required: [true,'Please Add field language'] },
+    language: { type: String,  },
     description: { type: String },
     publisher: { type: String },
     authors: [{ type: String}],

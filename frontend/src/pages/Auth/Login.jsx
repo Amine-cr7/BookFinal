@@ -1,7 +1,14 @@
 import React, { useEffect, useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
+<<<<<<< HEAD:frontend/src/pages/Login.jsx
 import { Link, useNavigate } from 'react-router-dom'
 import { login, reset } from '../features/auth/authSlice'
+=======
+import { useNavigate } from 'react-router-dom'
+import { reset } from '../../features/users/userSlice'
+import { login } from '../../features/auth/authSlice'
+
+>>>>>>> 74e7283c466d136ca2465399e9eb17b8f9df8f2f:frontend/src/pages/Auth/Login.jsx
 export default function Login() {
   const [formData, setFormData] = useState({
     email: '',
