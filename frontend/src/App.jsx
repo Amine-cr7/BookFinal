@@ -12,6 +12,8 @@ import Header from "./components/Header";
 import ProtectedRoute from "./components/ProtectedRoute";
 import AdminPanel from "./pages/AdminPanel";
 import Unauthorized from "./pages/Unauthorized";
+import ForgotPassword from "./pages/ForgotPassword";
+import ResetPassword from "./pages/ResetPassword";
 
 export default function App() {
 
@@ -23,7 +25,8 @@ export default function App() {
           {/* Public Routes */}
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
-          
+          <Route path="/forgot-password" element={<ForgotPassword />} />
+          <Route path="/reset-password/:token" element={<ResetPassword />} />
           {/* Protected User Route */}
           <Route element={<ProtectedRoute allowedRoles={["user", "admin"]} />}>
             <Route path="/" element={<Dashboard />} />
@@ -32,11 +35,11 @@ export default function App() {
 
           {/* Admin-Only Route */}
           <Route element={<ProtectedRoute allowedRoles={["admin"]} />}>
-            <Route path="/admin" element={<AdminPanel/>} />
+            <Route path="/admin" element={<AdminPanel />} />
           </Route>
-          
+
           {/* Unauthorized Page */}
-          <Route path="/unauthorized" element={<Unauthorized/>} />
+          <Route path="/unauthorized" element={<Unauthorized />} />
         </Routes>
       </div>
     </BrowserRouter>

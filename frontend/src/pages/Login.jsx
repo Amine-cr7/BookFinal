@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { login, reset } from '../features/auth/authSlice'
 export default function Login() {
   const [formData, setFormData] = useState({
@@ -72,6 +72,7 @@ export default function Login() {
             <button className='btn w-25 p-2 fs-5 bg-dark text-light btn-block'>Submit</button>
           </div>
         </form>
+        <a href='forgot-password'>Forgot Password?</a>
       </section>
      </div>     
     </>
