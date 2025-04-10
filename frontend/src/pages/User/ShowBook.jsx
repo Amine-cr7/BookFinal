@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import { useDispatch, useSelector } from "react-redux"
-import { deleteBook, getBookById } from "../features/books/bookSlice"
+import { deleteBook, getBookById } from "../../features/books/bookSlice"
 import { Link, useNavigate, useParams } from "react-router-dom"
 
 export default function ShowBook() {
